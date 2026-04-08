@@ -46,15 +46,15 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     reply_markup = InlineKeyboardMarkup(keyboard)
     
     await update.message.reply_text(
-        "👋 Welcome to the Daily French Boost Bot!\n\n"
-        "I'll send you a new French word every day.\n"
-        "Please select your target French level below:",
+        "👋 Bienvenue sur le bot Boost Français Quotidien !\n\n"
+        "Je vous enverrai un nouveau mot français chaque jour.\n"
+        "Veuillez sélectionner votre niveau de français ci-dessous :",
         reply_markup=reply_markup
     )
 
 async def level_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_chat.id
-    current_level = db.get_user_level(user_id) or "Not set"
+    current_level = db.get_user_level(user_id) or "Non défini"
     
     keyboard = [
         [InlineKeyboardButton(lvl, callback_data=f"level_{lvl}") for lvl in LEVELS[:3]],
@@ -63,8 +63,8 @@ async def level_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     reply_markup = InlineKeyboardMarkup(keyboard)
     
     await update.message.reply_text(
-        f"Your current level is: *{current_level}*\n\n"
-        "Choose a new level:",
+        f"Votre niveau actuel est : *{current_level}*\n\n"
+        "Choisissez un nouveau niveau :",
         reply_markup=reply_markup,
         parse_mode='Markdown'
     )
@@ -77,19 +77,19 @@ async def send_single_word(context: ContextTypes.DEFAULT_TYPE, chat_id: int, lev
         return
     entry = random.choice(level_words)
     message = (
-        f"🌟 *{level} French Word of the Day: {entry['word']}*\n\n"
-        f"📚 *Translation / Definition:* {entry['definition']}\n\n"
-        f"📝 *Example:* _{entry['example']}_\n\n"
+        f"🌟 *{level} Mot du jour : {entry['word']}*\n\n"
+        f"📚 *Traduction / Définition :* {entry['definition']}\n\n"
+        f"📝 *Exemple :* _{entry['example']}_\n\n"
     )
     if "see_also" in entry and entry["see_also"]:
-        message += f"🔗 *See Also:* {', '.join(entry['see_also'])}\n\n"
+        message += f"🔗 *Voir aussi :* {', '.join(entry['see_also'])}\n\n"
         
     message += (
         f"--- \n"
-        f"💪 *Stress Test:* Can you use '{entry['word'].lower()}' in a sentence today?"
+        f"💪 *Défi :* Pouvez-vous utiliser '{entry['word'].lower()}' dans une phrase aujourd'hui ?"
     )
     bot_username = context.bot.username
-    keyboard = [[InlineKeyboardButton("🤖 View Bot", url=f"https://t.me/{bot_username}")]]
+    keyboard = [[InlineKeyboardButton("🤖 Voir le Bot", url=f"https://t.me/{bot_username}")]]
     reply_markup = InlineKeyboardMarkup(keyboard)
     
     try:
@@ -107,7 +107,7 @@ async def button_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         new_level = data.split("_")[1]
         user_id = update.effective_chat.id
         db.add_or_update_user(user_id, new_level)
-        await query.edit_message_text(f"✅ Your level has been updated to *{new_level}*!\nYou'll receive words for this level daily.", parse_mode='Markdown')
+        await query.edit_message_text(f"✅ Votre niveau a été mis à jour : *{new_level}* !\nVous recevrez des mots de ce niveau chaque jour.", parse_mode='Markdown')
         await send_single_word(context, user_id, new_level)
     elif data.startswith("vocab_"):
         word = data.split("_", 1)[1]
@@ -157,20 +157,20 @@ async def send_daily_words(context: ContextTypes.DEFAULT_TYPE):
             
         entry = random.choice(level_words)
         message = (
-            f"🌟 *{level} French Word of the Day: {entry['word']}*\n\n"
-            f"📚 *Translation / Definition:* {entry['definition']}\n\n"
-            f"📝 *Example:* _{entry['example']}_\n\n"
+            f"🌟 *{level} Mot du jour : {entry['word']}*\n\n"
+            f"📚 *Traduction / Définition :* {entry['definition']}\n\n"
+            f"📝 *Exemple :* _{entry['example']}_\n\n"
         )
         if "see_also" in entry and entry["see_also"]:
-            message += f"🔗 *See Also:* {', '.join(entry['see_also'])}\n\n"
+            message += f"🔗 *Voir aussi :* {', '.join(entry['see_also'])}\n\n"
             
         message += (
             f"--- \n"
-            f"💪 *Stress Test:* Can you use '{entry['word'].lower()}' in a sentence today?"
+            f"💪 *Défi :* Pouvez-vous utiliser '{entry['word'].lower()}' dans une phrase aujourd'hui ?"
         )
         
         bot_username = context.bot.username
-        keyboard = [[InlineKeyboardButton("🤖 View Bot", url=f"https://t.me/{bot_username}")]]
+        keyboard = [[InlineKeyboardButton("🤖 Voir le Bot", url=f"https://t.me/{bot_username}")]]
         reply_markup = InlineKeyboardMarkup(keyboard)
         
         for chat_id in chat_ids:
@@ -184,7 +184,7 @@ async def send_golden_list(context: ContextTypes.DEFAULT_TYPE, chat_id: int):
     recent, unlearned = db.get_golden_list(chat_id)
     if not recent and not unlearned:
         try:
-            await context.bot.send_message(chat_id=chat_id, text="You haven't added any words to your vocabulary yet!")
+            await context.bot.send_message(chat_id=chat_id, text="Vous n'avez pas encore ajouté de mots à votre vocabulaire !")
         except Exception:
             pass
         return
@@ -207,10 +207,10 @@ async def send_golden_list(context: ContextTypes.DEFAULT_TYPE, chat_id: int):
 
     reply_markup = InlineKeyboardMarkup(keyboard)
     msg = (
-        "🏆 *Your Golden List*\n\n"
-        "Review your vocabulary over the past 2 weeks and all unlearned words. "
-        "Tap a word to toggle its status:\n\n"
-        "(✅ = Learned, ❌ = Unlearned)"
+        "🏆 *Votre Liste Dorée*\n\n"
+        "Révisez votre vocabulaire des 2 dernières semaines et tous les mots non appris. "
+        "Appuyez sur un mot pour changer son statut :\n\n"
+        "(✅ = Appris, ❌ = Non appris)"
     )
     
     try:
@@ -234,7 +234,7 @@ async def send_all_golden_lists(context: ContextTypes.DEFAULT_TYPE):
 
 async def test_send(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await send_daily_words(context)
-    await update.message.reply_text("Sent daily words to all users.")
+    await update.message.reply_text("Mots quotidiens envoyés à tous les utilisateurs.")
 
 import time as time_module
 
