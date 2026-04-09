@@ -78,6 +78,10 @@ async def send_single_word(context: ContextTypes.DEFAULT_TYPE, chat_id: int, lev
     entry = random.choice(level_words)
     message = (
         f"🌟 *{level} Mot du jour : {entry['word']}*\n\n"
+    )
+    if "pronunciation" in entry and entry["pronunciation"]:
+        message += f"🔊 *Prononciation :* {entry['pronunciation']}\n\n"
+    message += (
         f"📚 *Traduction / Définition :* {entry['definition']}\n\n"
         f"📝 *Exemple :* _{entry['example']}_\n\n"
     )
@@ -158,6 +162,10 @@ async def send_daily_words(context: ContextTypes.DEFAULT_TYPE):
         entry = random.choice(level_words)
         message = (
             f"🌟 *{level} Mot du jour : {entry['word']}*\n\n"
+        )
+        if "pronunciation" in entry and entry["pronunciation"]:
+            message += f"🔊 *Prononciation :* {entry['pronunciation']}\n\n"
+        message += (
             f"📚 *Traduction / Définition :* {entry['definition']}\n\n"
             f"📝 *Exemple :* _{entry['example']}_\n\n"
         )
