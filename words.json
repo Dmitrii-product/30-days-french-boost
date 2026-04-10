@@ -1,2394 +1,2210 @@
 [
-    {
-        "word": "Bonjour",
-        "level": "A1",
-        "definition": "hello, good morning (привет, доброе утро)",
-        "example": "Bonjour, comment allez-vous ?",
-        "see_also": [],
-        "pronunciation": "[bon-zhoor]"
-    },
-    {
-        "word": "Merci",
-        "level": "A1",
-        "definition": "thank you (спасибо)",
-        "example": "Merci beaucoup pour votre aide.",
-        "see_also": [],
-        "pronunciation": "[mehr-see]"
-    },
-    {
-        "word": "Oui",
-        "level": "A1",
-        "definition": "yes (да)",
-        "example": "Oui, je suis prêt.",
-        "see_also": [],
-        "pronunciation": "[wee]"
-    },
-    {
-        "word": "Non",
-        "level": "A1",
-        "definition": "no (нет)",
-        "example": "Non, je ne veux pas.",
-        "see_also": [],
-        "pronunciation": "[nohn]"
-    },
-    {
-        "word": "S'il vous plaît",
-        "level": "A1",
-        "definition": "please (пожалуйста)",
-        "example": "Donnez-moi ça, s'il vous plaît.",
-        "see_also": [],
-        "pronunciation": "[see voo pleh]"
-    },
-    {
-        "word": "Chat",
-        "level": "A1",
-        "definition": "cat (кот)",
-        "example": "Le chat dort sur le canapé.",
-        "see_also": [],
-        "pronunciation": "[shah]"
-    },
-    {
-        "word": "Chien",
-        "level": "A1",
-        "definition": "dog (собака)",
-        "example": "Mon chien aime jouer dans le parc.",
-        "see_also": [],
-        "pronunciation": "[shee-ahn]"
-    },
-    {
-        "word": "Maison",
-        "level": "A1",
-        "definition": "house (дом)",
-        "example": "J'habite dans une grande maison.",
-        "see_also": [],
-        "pronunciation": "[meh-zohn]"
-    },
-    {
-        "word": "Livre",
-        "level": "A1",
-        "definition": "book (книга)",
-        "example": "Je lis un livre intéressant.",
-        "see_also": [],
-        "pronunciation": "[lee-vruh]"
-    },
-    {
-        "word": "Eau",
-        "level": "A1",
-        "definition": "water (вода)",
-        "example": "Je voudrais un verre d'eau.",
-        "see_also": [],
-        "pronunciation": "[oh]"
-    },
-    {
-        "word": "Pain",
-        "level": "A1",
-        "definition": "bread (хлеб)",
-        "example": "Je mange du pain au petit déjeuner.",
-        "see_also": [],
-        "pronunciation": "[pahn]"
-    },
-    {
-        "word": "Fille",
-        "level": "A1",
-        "definition": "girl (девочка)",
-        "example": "La fille joue dans le jardin.",
-        "see_also": [],
-        "pronunciation": "[fee-yuh]"
-    },
-    {
-        "word": "Garçon",
-        "level": "A1",
-        "definition": "boy (мальчик)",
-        "example": "Le garçon regarde la télévision.",
-        "see_also": [],
-        "pronunciation": "[garçon]"
-    },
-    {
-        "word": "Pomme",
-        "level": "A1",
-        "definition": "apple (яблоко)",
-        "example": "Je mange une pomme rouge.",
-        "see_also": [],
-        "pronunciation": "[pomme]"
-    },
-    {
-        "word": "Lait",
-        "level": "A1",
-        "definition": "milk (молоко)",
-        "example": "Il boit du lait froid.",
-        "see_also": [],
-        "pronunciation": "[lait]"
-    },
-    {
-        "word": "École",
-        "level": "A1",
-        "definition": "school (школа)",
-        "example": "Je vais à l'école tous les jours.",
-        "see_also": [],
-        "pronunciation": "[ay-kol]"
-    },
-    {
-        "word": "Voiture",
-        "level": "A1",
-        "definition": "car (машина)",
-        "example": "Sa voiture est très rapide.",
-        "see_also": [],
-        "pronunciation": "[voiture]"
-    },
-    {
-        "word": "Mère",
-        "level": "A1",
-        "definition": "mother (мать)",
-        "example": "Ma mère est gentille.",
-        "see_also": [],
-        "pronunciation": "[mehr]"
-    },
-    {
-        "word": "Père",
-        "level": "A1",
-        "definition": "father (отец)",
-        "example": "Mon père travaille loin.",
-        "see_also": [],
-        "pronunciation": "[pair]"
-    },
-    {
-        "word": "Frère",
-        "level": "A1",
-        "definition": "brother (брат)",
-        "example": "Mon frère s'appelle paul.",
-        "see_also": [],
-        "pronunciation": "[frehr]"
-    },
-    {
-        "word": "Sœur",
-        "level": "A1",
-        "definition": "sister (сестра)",
-        "example": "J'ai une petite sœur.",
-        "see_also": [],
-        "pronunciation": "[suhr]"
-    },
-    {
-        "word": "Ami",
-        "level": "A1",
-        "definition": "friend (друг)",
-        "example": "Voici mon meilleur ami.",
-        "see_also": [],
-        "pronunciation": "[ah-mee]"
-    },
-    {
-        "word": "Nuit",
-        "level": "A1",
-        "definition": "night (ночь)",
-        "example": "La nuit, il fait noir.",
-        "see_also": [],
-        "pronunciation": "[nwee]"
-    },
-    {
-        "word": "Jour",
-        "level": "A1",
-        "definition": "day (день)",
-        "example": "Le jour se lève tôt.",
-        "see_also": [],
-        "pronunciation": "[zhoor]"
-    },
-    {
-        "word": "Soleil",
-        "level": "A1",
-        "definition": "sun (солнце)",
-        "example": "Le soleil brille aujourd'hui.",
-        "see_also": [],
-        "pronunciation": "[so-lay]"
-    },
-    {
-        "word": "Temps",
-        "level": "A1",
-        "definition": "time / weather (время / погода)",
-        "example": "Quel temps fait-il ?",
-        "see_also": [],
-        "pronunciation": "[temps]"
-    },
-    {
-        "word": "Beau",
-        "level": "A1",
-        "definition": "beautiful / handsome (красивый)",
-        "example": "Ce tableau est très beau.",
-        "see_also": [],
-        "pronunciation": "[beau]"
-    },
-    {
-        "word": "Petit",
-        "level": "A1",
-        "definition": "small (маленький)",
-        "example": "C'est un petit chien.",
-        "see_also": [],
-        "pronunciation": "[puh-tee]"
-    },
-    {
-        "word": "Grand",
-        "level": "A1",
-        "definition": "big (большой)",
-        "example": "C'est un grand bâtiment.",
-        "see_also": [],
-        "pronunciation": "[grahn]"
-    },
-    {
-        "word": "Bon",
-        "level": "A1",
-        "definition": "good (хороший)",
-        "example": "Ce gâteau est très bon.",
-        "see_also": [],
-        "pronunciation": "[bon]"
-    },
-    {
-        "word": "Femme",
-        "level": "A1",
-        "definition": "woman / wife (женщина / жена)",
-        "example": "C'est une femme intelligente.",
-        "see_also": [],
-        "pronunciation": "[fahm]"
-    },
-    {
-        "word": "Homme",
-        "level": "A1",
-        "definition": "man (мужчина)",
-        "example": "L'homme porte un manteau.",
-        "see_also": [],
-        "pronunciation": "[om]"
-    },
-    {
-        "word": "Enfant",
-        "level": "A1",
-        "definition": "child (ребёнок)",
-        "example": "L'enfant joue avec ses jouets.",
-        "see_also": [],
-        "pronunciation": "[ahn-fahn]"
-    },
-    {
-        "word": "Toujours",
-        "level": "A1",
-        "definition": "always (всегда)",
-        "example": "Je suis toujours à l'heure.",
-        "see_also": [],
-        "pronunciation": "[toujours]"
-    },
-    {
-        "word": "Jamais",
-        "level": "A1",
-        "definition": "never (никогда)",
-        "example": "Je ne bois jamais de café.",
-        "see_also": [],
-        "pronunciation": "[jamais]"
-    },
-    {
-        "word": "Souvent",
-        "level": "A1",
-        "definition": "often (часто)",
-        "example": "Je vais souvent au cinéma.",
-        "see_also": [],
-        "pronunciation": "[souvent]"
-    },
-    {
-        "word": "Parler",
-        "level": "A1",
-        "definition": "to speak (говорить)",
-        "example": "Je parle français un peu.",
-        "see_also": [],
-        "pronunciation": "[parler]"
-    },
-    {
-        "word": "Manger",
-        "level": "A1",
-        "definition": "to eat (есть, кушать)",
-        "example": "Nous allons manger au restaurant.",
-        "see_also": [],
-        "pronunciation": "[manger]"
-    },
-    {
-        "word": "Boire",
-        "level": "A1",
-        "definition": "to drink (пить)",
-        "example": "Je veux boire de l'eau.",
-        "see_also": [],
-        "pronunciation": "[boire]"
-    },
-    {
-        "word": "Dormir",
-        "level": "A1",
-        "definition": "to sleep (спать)",
-        "example": "Il est temps de dormir.",
-        "see_also": [],
-        "pronunciation": "[dormir]"
-    },
-    {
-        "word": "Aller",
-        "level": "A1",
-        "definition": "to go (идти, ехать)",
-        "example": "Je vais au supermarché.",
-        "see_also": [],
-        "pronunciation": "[aller]"
-    },
-    {
-        "word": "Faire",
-        "level": "A1",
-        "definition": "to do / make (делать)",
-        "example": "Qu'est-ce que tu vas faire ?",
-        "see_also": [],
-        "pronunciation": "[faire]"
-    },
-    {
-        "word": "Voir",
-        "level": "A1",
-        "definition": "to see (видеть)",
-        "example": "Je ne peux pas voir d'ici.",
-        "see_also": [],
-        "pronunciation": "[voir]"
-    },
-    {
-        "word": "Aimer",
-        "level": "A1",
-        "definition": "to like / love (любить, нравиться)",
-        "example": "J'aime la musique classique.",
-        "see_also": [],
-        "pronunciation": "[aimer]"
-    },
-    {
-        "word": "Avoir",
-        "level": "A1",
-        "definition": "to have (иметь)",
-        "example": "J'ai deux chats.",
-        "see_also": [],
-        "pronunciation": "[avoir]"
-    },
-    {
-        "word": "Être",
-        "level": "A1",
-        "definition": "to be (быть)",
-        "example": "Je suis très fatigué.",
-        "see_also": [],
-        "pronunciation": "[être]"
-    },
-    {
-        "word": "Maintenant",
-        "level": "A1",
-        "definition": "now (сейчас)",
-        "example": "Je dois partir maintenant.",
-        "see_also": [],
-        "pronunciation": "[maintenant]"
-    },
-    {
-        "word": "Aujourd'hui",
-        "level": "A1",
-        "definition": "today (сегодня)",
-        "example": "Nous sommes lundi aujourd'hui.",
-        "see_also": [],
-        "pronunciation": "[aujourd'hui]"
-    },
-    {
-        "word": "Demain",
-        "level": "A1",
-        "definition": "tomorrow (завтра)",
-        "example": "Je te verrai demain.",
-        "see_also": [],
-        "pronunciation": "[demain]"
-    },
-    {
-        "word": "Hier",
-        "level": "A1",
-        "definition": "yesterday (вчера)",
-        "example": "Il a plu hier.",
-        "see_also": [],
-        "pronunciation": "[hier]"
-    },
-    {
-        "word": "Acheter",
-        "level": "A2",
-        "definition": "to buy (покупать)",
-        "example": "Je vais acheter du lait.",
-        "see_also": [],
-        "pronunciation": "[acheter]"
-    },
-    {
-        "word": "Vendre",
-        "level": "A2",
-        "definition": "to sell (продавать)",
-        "example": "Il veut vendre sa voiture.",
-        "see_also": [],
-        "pronunciation": "[vendre]"
-    },
-    {
-        "word": "Chercher",
-        "level": "A2",
-        "definition": "to look for (искать)",
-        "example": "Je cherche mes clés.",
-        "see_also": [],
-        "pronunciation": "[chercher]"
-    },
-    {
-        "word": "Trouver",
-        "level": "A2",
-        "definition": "to find (находить)",
-        "example": "J'ai trouvé une solution.",
-        "see_also": [],
-        "pronunciation": "[trouver]"
-    },
-    {
-        "word": "Choisir",
-        "level": "A2",
-        "definition": "to choose (выбирать)",
-        "example": "Tu dois choisir une couleur.",
-        "see_also": [],
-        "pronunciation": "[choisir]"
-    },
-    {
-        "word": "Décider",
-        "level": "A2",
-        "definition": "to decide (решать)",
-        "example": "Nous devons décider rapidement.",
-        "see_also": [],
-        "pronunciation": "[décider]"
-    },
-    {
-        "word": "Essayer",
-        "level": "A2",
-        "definition": "to try (пробовать)",
-        "example": "Je veux essayer cette chemise.",
-        "see_also": [],
-        "pronunciation": "[essayer]"
-    },
-    {
-        "word": "Oublier",
-        "level": "A2",
-        "definition": "to forget (забывать)",
-        "example": "N'oublie pas ton parapluie.",
-        "see_also": [],
-        "pronunciation": "[oublier]"
-    },
-    {
-        "word": "Apprendre",
-        "level": "A2",
-        "definition": "to learn (учить, изучать)",
-        "example": "J'apprends le français tous les jours.",
-        "see_also": [],
-        "pronunciation": "[apprendre]"
-    },
-    {
-        "word": "Comprendre",
-        "level": "A2",
-        "definition": "to understand (понимать)",
-        "example": "Je comprends la question.",
-        "see_also": [],
-        "pronunciation": "[comprendre]"
-    },
-    {
-        "word": "Répondre",
-        "level": "A2",
-        "definition": "to answer (отвечать)",
-        "example": "Il ne veut pas répondre.",
-        "see_also": [],
-        "pronunciation": "[répondre]"
-    },
-    {
-        "word": "Attendre",
-        "level": "A2",
-        "definition": "to wait (ждать)",
-        "example": "Je vais t'attendre ici.",
-        "see_also": [],
-        "pronunciation": "[attendre]"
-    },
-    {
-        "word": "Entendre",
-        "level": "A2",
-        "definition": "to hear (слышать)",
-        "example": "J'entends un bruit mystérieux.",
-        "see_also": [],
-        "pronunciation": "[entendre]"
-    },
-    {
-        "word": "Connaître",
-        "level": "A2",
-        "definition": "to know (someone/place) (знать кого-то/место)",
-        "example": "Je connais ce restaurant.",
-        "see_also": [],
-        "pronunciation": "[connaître]"
-    },
-    {
-        "word": "Savoir",
-        "level": "A2",
-        "definition": "to know (a fact) (знать факт)",
-        "example": "Je sais où il habite.",
-        "see_also": [],
-        "pronunciation": "[savoir]"
-    },
-    {
-        "word": "Venir",
-        "level": "A2",
-        "definition": "to come (приходить)",
-        "example": "Il va venir demain matin.",
-        "see_also": [],
-        "pronunciation": "[venir]"
-    },
-    {
-        "word": "Devenir",
-        "level": "A2",
-        "definition": "to become (становиться)",
-        "example": "Elle veut devenir médecin.",
-        "see_also": [],
-        "pronunciation": "[devenir]"
-    },
-    {
-        "word": "Rentrer",
-        "level": "A2",
-        "definition": "to go home / return (возвращаться домой)",
-        "example": "Il est temps de rentrer.",
-        "see_also": [],
-        "pronunciation": "[rentrer]"
-    },
-    {
-        "word": "Sortir",
-        "level": "A2",
-        "definition": "to go out (выходить)",
-        "example": "Nous allons sortir ce soir.",
-        "see_also": [],
-        "pronunciation": "[sortir]"
-    },
-    {
-        "word": "Partir",
-        "level": "A2",
-        "definition": "to leave (уходить, уезжать)",
-        "example": "Ils vont partir en vacances.",
-        "see_also": [],
-        "pronunciation": "[partir]"
-    },
-    {
-        "word": "Voyage",
-        "level": "A2",
-        "definition": "trip (путешествие)",
-        "example": "C'était un voyage fantastique.",
-        "see_also": [],
-        "pronunciation": "[voyage]"
-    },
-    {
-        "word": "Billet",
-        "level": "A2",
-        "definition": "ticket (билет)",
-        "example": "J'ai acheté un billet de train.",
-        "see_also": [],
-        "pronunciation": "[billet]"
-    },
-    {
-        "word": "Gare",
-        "level": "A2",
-        "definition": "train station (вокзал)",
-        "example": "Nous sommes arrivés à la gare.",
-        "see_also": [],
-        "pronunciation": "[gare]"
-    },
-    {
-        "word": "Aéroport",
-        "level": "A2",
-        "definition": "airport (аэропорт)",
-        "example": "L'aéroport est très grand.",
-        "see_also": [],
-        "pronunciation": "[aéroport]"
-    },
-    {
-        "word": "Valise",
-        "level": "A2",
-        "definition": "suitcase (чемодан)",
-        "example": "Ma valise est trop lourde.",
-        "see_also": [],
-        "pronunciation": "[valise]"
-    },
-    {
-        "word": "Chaussure",
-        "level": "A2",
-        "definition": "shoe (обувь)",
-        "example": "Où est ma chaussure gauche ?",
-        "see_also": [],
-        "pronunciation": "[chaussure]"
-    },
-    {
-        "word": "Vêtement",
-        "level": "A2",
-        "definition": "clothes (одежда)",
-        "example": "Je dois laver mes vêtements.",
-        "see_also": [],
-        "pronunciation": "[vêtement]"
-    },
-    {
-        "word": "Argent",
-        "level": "A2",
-        "definition": "money (деньги)",
-        "example": "Je n'ai pas d'argent sur moi.",
-        "see_also": [],
-        "pronunciation": "[argent]"
-    },
-    {
-        "word": "Banque",
-        "level": "A2",
-        "definition": "bank (банк)",
-        "example": "La banque est fermée aujourd'hui.",
-        "see_also": [],
-        "pronunciation": "[banque]"
-    },
-    {
-        "word": "Magasin",
-        "level": "A2",
-        "definition": "store (магазин)",
-        "example": "Le magasin ouvre à 9 heures.",
-        "see_also": [],
-        "pronunciation": "[magasin]"
-    },
-    {
-        "word": "Prix",
-        "level": "A2",
-        "definition": "price (цена)",
-        "example": "Le prix est trop élevé.",
-        "see_also": [],
-        "pronunciation": "[prix]"
-    },
-    {
-        "word": "Cher",
-        "level": "A2",
-        "definition": "expensive (дорогой)",
-        "example": "Ce bijou est très cher.",
-        "see_also": [],
-        "pronunciation": "[cher]"
-    },
-    {
-        "word": "Facile",
-        "level": "A2",
-        "definition": "easy (лёгкий)",
-        "example": "L'examen était facile.",
-        "see_also": [],
-        "pronunciation": "[facile]"
-    },
-    {
-        "word": "Difficile",
-        "level": "A2",
-        "definition": "difficult (трудный)",
-        "example": "C'est difficile à expliquer.",
-        "see_also": [],
-        "pronunciation": "[difficile]"
-    },
-    {
-        "word": "Heureux",
-        "level": "A2",
-        "definition": "happy (счастливый)",
-        "example": "Je suis heureux de te voir.",
-        "see_also": [],
-        "pronunciation": "[uh-ruh]"
-    },
-    {
-        "word": "Triste",
-        "level": "A2",
-        "definition": "sad (грустный)",
-        "example": "Pourquoi es-tu si triste ?",
-        "see_also": [],
-        "pronunciation": "[treest]"
-    },
-    {
-        "word": "Fatigué",
-        "level": "A2",
-        "definition": "tired (уставший)",
-        "example": "Je suis vraiment fatigué ce soir.",
-        "see_also": [],
-        "pronunciation": "[fatigué]"
-    },
-    {
-        "word": "Malade",
-        "level": "A2",
-        "definition": "sick (больной)",
-        "example": "Il ne vient pas parce qu'il est malade.",
-        "see_also": [],
-        "pronunciation": "[malade]"
-    },
-    {
-        "word": "Médecin",
-        "level": "A2",
-        "definition": "doctor (врач)",
-        "example": "Tu devrais voir un médecin.",
-        "see_also": [],
-        "pronunciation": "[médecin]"
-    },
-    {
-        "word": "Hôpital",
-        "level": "A2",
-        "definition": "hospital (больница)",
-        "example": "L'hôpital est près d'ici.",
-        "see_also": [],
-        "pronunciation": "[hôpital]"
-    },
-    {
-        "word": "Santé",
-        "level": "A2",
-        "definition": "health (здоровье)",
-        "example": "La santé est la chose la plus importante.",
-        "see_also": [],
-        "pronunciation": "[santé]"
-    },
-    {
-        "word": "Ville",
-        "level": "A2",
-        "definition": "city (город)",
-        "example": "Paris est une grande ville.",
-        "see_also": [],
-        "pronunciation": "[ville]"
-    },
-    {
-        "word": "Rue",
-        "level": "A2",
-        "definition": "street (улица)",
-        "example": "Il habite dans cette rue.",
-        "see_also": [],
-        "pronunciation": "[rue]"
-    },
-    {
-        "word": "Bâtiment",
-        "level": "A2",
-        "definition": "building (здание)",
-        "example": "Le bâtiment est très moderne.",
-        "see_also": [],
-        "pronunciation": "[bâtiment]"
-    },
-    {
-        "word": "Chambre",
-        "level": "A2",
-        "definition": "room / bedroom (комната / спальня)",
-        "example": "Ma chambre est au premier étage.",
-        "see_also": [],
-        "pronunciation": "[chambre]"
-    },
-    {
-        "word": "Lit",
-        "level": "A2",
-        "definition": "bed (кровать)",
-        "example": "Le lit est très confortable.",
-        "see_also": [],
-        "pronunciation": "[lit]"
-    },
-    {
-        "word": "Fenêtre",
-        "level": "A2",
-        "definition": "window (окно)",
-        "example": "S'il te plaît, ferme la fenêtre.",
-        "see_also": [],
-        "pronunciation": "[fenêtre]"
-    },
-    {
-        "word": "Porte",
-        "level": "A2",
-        "definition": "door (дверь)",
-        "example": "Quelqu'un a frappé à la porte.",
-        "see_also": [],
-        "pronunciation": "[porte]"
-    },
-    {
-        "word": "Table",
-        "level": "A2",
-        "definition": "table (стол)",
-        "example": "Le livre est sur la table.",
-        "see_also": [],
-        "pronunciation": "[table]"
-    },
-    {
-        "word": "Chaise",
-        "level": "A2",
-        "definition": "chair (стул)",
-        "example": "Asseyez-vous sur cette chaise.",
-        "see_also": [],
-        "pronunciation": "[chaise]"
-    },
-    {
-        "word": "Améliorer",
-        "level": "B1",
-        "definition": "to improve (улучшать)",
-        "example": "Je veux améliorer mon accent.",
-        "see_also": [],
-        "pronunciation": "[améliorer]"
-    },
-    {
-        "word": "Découvrir",
-        "level": "B1",
-        "definition": "to discover (открывать, обнаруживать)",
-        "example": "Nous avons découvert un nouveau café.",
-        "see_also": [],
-        "pronunciation": "[découvrir]"
-    },
-    {
-        "word": "Partager",
-        "level": "B1",
-        "definition": "to share (делиться)",
-        "example": "Merci de partager cette information.",
-        "see_also": [],
-        "pronunciation": "[partager]"
-    },
-    {
-        "word": "Proposer",
-        "level": "B1",
-        "definition": "to suggest / propose (предлагать)",
-        "example": "Que proposes-tu pour le dîner ?",
-        "see_also": [],
-        "pronunciation": "[proposer]"
-    },
-    {
-        "word": "Accepter",
-        "level": "B1",
-        "definition": "to accept (принимать)",
-        "example": "J'accepte votre offre.",
-        "see_also": [],
-        "pronunciation": "[accepter]"
-    },
-    {
-        "word": "Refuser",
-        "level": "B1",
-        "definition": "to refuse (отказывать)",
-        "example": "Il a refusé de m'aider.",
-        "see_also": [],
-        "pronunciation": "[refuser]"
-    },
-    {
-        "word": "Remercier",
-        "level": "B1",
-        "definition": "to thank (благодарить)",
-        "example": "Je tiens à vous remercier.",
-        "see_also": [],
-        "pronunciation": "[remercier]"
-    },
-    {
-        "word": "Respecter",
-        "level": "B1",
-        "definition": "to respect (уважать)",
-        "example": "Il faut respecter les règles.",
-        "see_also": [],
-        "pronunciation": "[respecter]"
-    },
-    {
-        "word": "Utiliser",
-        "level": "B1",
-        "definition": "to use (использовать)",
-        "example": "Comment utiliser cet appareil ?",
-        "see_also": [],
-        "pronunciation": "[utiliser]"
-    },
-    {
-        "word": "Ajouter",
-        "level": "B1",
-        "definition": "to add (добавлять)",
-        "example": "Tu peux ajouter un peu de sel.",
-        "see_also": [],
-        "pronunciation": "[ajouter]"
-    },
-    {
-        "word": "Vérifier",
-        "level": "B1",
-        "definition": "to check / verify (проверять)",
-        "example": "Je dois vérifier mes e-mails.",
-        "see_also": [],
-        "pronunciation": "[vérifier]"
-    },
-    {
-        "word": "Expliquer",
-        "level": "B1",
-        "definition": "to explain (объяснять)",
-        "example": "Peux-tu m'expliquer cela encore une fois ?",
-        "see_also": [],
-        "pronunciation": "[expliquer]"
-    },
-    {
-        "word": "S'adapter",
-        "level": "B1",
-        "definition": "to adapt oneself (приспосабливаться)",
-        "example": "Il est important de s'adapter au changement.",
-        "see_also": [],
-        "pronunciation": "[s'adapter]"
-    },
-    {
-        "word": "Se souvenir",
-        "level": "B1",
-        "definition": "to remember (вспоминать)",
-        "example": "Je ne me souviens pas de son nom.",
-        "see_also": [],
-        "pronunciation": "[se souvenir]"
-    },
-    {
-        "word": "Se dépêcher",
-        "level": "B1",
-        "definition": "to hurry (торопиться)",
-        "example": "Nous devons nous dépêcher !",
-        "see_also": [],
-        "pronunciation": "[se dépêcher]"
-    },
-    {
-        "word": "S'habituer",
-        "level": "B1",
-        "definition": "to get used to (привыкать)",
-        "example": "Je m'habitue à ma nouvelle vie.",
-        "see_also": [],
-        "pronunciation": "[s'habituer]"
-    },
-    {
-        "word": "Se plaindre",
-        "level": "B1",
-        "definition": "to complain (жаловаться)",
-        "example": "Elle se plaint tout le temps.",
-        "see_also": [],
-        "pronunciation": "[se plaindre]"
-    },
-    {
-        "word": "Réussir",
-        "level": "B1",
-        "definition": "to succeed (удаваться, преуспевать)",
-        "example": "Il a réussi son examen avec brio.",
-        "see_also": [],
-        "pronunciation": "[réussir]"
-    },
-    {
-        "word": "Échouer",
-        "level": "B1",
-        "definition": "to fail (провалиться)",
-        "example": "Il est possible d'échouer la première fois.",
-        "see_also": [],
-        "pronunciation": "[échouer]"
-    },
-    {
-        "word": "Protéger",
-        "level": "B1",
-        "definition": "to protect (защищать)",
-        "example": "Nous devons protéger l'environnement.",
-        "see_also": [],
-        "pronunciation": "[protéger]"
-    },
-    {
-        "word": "Polluer",
-        "level": "B1",
-        "definition": "to pollute (загрязнять)",
-        "example": "Ces usines polluent la rivière.",
-        "see_also": [],
-        "pronunciation": "[polluer]"
-    },
-    {
-        "word": "Environnement",
-        "level": "B1",
-        "definition": "environment (окружающая среда)",
-        "example": "La protection de l'environnement est cruciale.",
-        "see_also": [],
-        "pronunciation": "[environnement]"
-    },
-    {
-        "word": "Entreprise",
-        "level": "B1",
-        "definition": "company (компания, предприятие)",
-        "example": "Mon entreprise recrute de nouveaux employés.",
-        "see_also": [],
-        "pronunciation": "[entreprise]"
-    },
-    {
-        "word": "Emploi",
-        "level": "B1",
-        "definition": "job (работа, занятость)",
-        "example": "Je cherche un nouvel emploi.",
-        "see_also": [],
-        "pronunciation": "[emploi]"
-    },
-    {
-        "word": "Chômage",
-        "level": "B1",
-        "definition": "unemployment (безработица)",
-        "example": "Le taux de chômage a baissé cette année.",
-        "see_also": [],
-        "pronunciation": "[chômage]"
-    },
-    {
-        "word": "Salaire",
-        "level": "B1",
-        "definition": "salary (зарплата)",
-        "example": "Son salaire est très élevé.",
-        "see_also": [],
-        "pronunciation": "[salaire]"
-    },
-    {
-        "word": "Économie",
-        "level": "B1",
-        "definition": "economy / savings (экономика / сбережения)",
-        "example": "L'économie mondiale est en crise.",
-        "see_also": [],
-        "pronunciation": "[économie]"
-    },
-    {
-        "word": "Loi",
-        "level": "B1",
-        "definition": "law (закон)",
-        "example": "La nouvelle loi entre en vigueur demain.",
-        "see_also": [],
-        "pronunciation": "[loi]"
-    },
-    {
-        "word": "Gouvernement",
-        "level": "B1",
-        "definition": "government (правительство)",
-        "example": "Le gouvernement a annoncé de nouvelles mesures.",
-        "see_also": [],
-        "pronunciation": "[gouvernement]"
-    },
-    {
-        "word": "Société",
-        "level": "B1",
-        "definition": "society (общество)",
-        "example": "La société moderne évolue rapidement.",
-        "see_also": [],
-        "pronunciation": "[société]"
-    },
-    {
-        "word": "Culture",
-        "level": "B1",
-        "definition": "culture (культура)",
-        "example": "La culture française est riche.",
-        "see_also": [],
-        "pronunciation": "[culture]"
-    },
-    {
-        "word": "Histoire",
-        "level": "B1",
-        "definition": "history (история)",
-        "example": "J'adore lire des livres d'histoire.",
-        "see_also": [],
-        "pronunciation": "[histoire]"
-    },
-    {
-        "word": "Science",
-        "level": "B1",
-        "definition": "science (наука)",
-        "example": "Les progrès de la science sont incroyables.",
-        "see_also": [],
-        "pronunciation": "[science]"
-    },
-    {
-        "word": "Technologie",
-        "level": "B1",
-        "definition": "technology (технология)",
-        "example": "La technologie simplifie notre quotidien.",
-        "see_also": [],
-        "pronunciation": "[technologie]"
-    },
-    {
-        "word": "Réseau",
-        "level": "B1",
-        "definition": "network (сеть)",
-        "example": "Le réseau internet est lent ce matin.",
-        "see_also": [],
-        "pronunciation": "[réseau]"
-    },
-    {
-        "word": "Ordinateur",
-        "level": "B1",
-        "definition": "computer (компьютер)",
-        "example": "Mon ordinateur a besoin d'une mise à jour.",
-        "see_also": [],
-        "pronunciation": "[ordinateur]"
-    },
-    {
-        "word": "Logiciel",
-        "level": "B1",
-        "definition": "software (программное обеспечение)",
-        "example": "Ce logiciel est très facile à utiliser.",
-        "see_also": [],
-        "pronunciation": "[logiciel]"
-    },
-    {
-        "word": "Écran",
-        "level": "B1",
-        "definition": "screen (экран)",
-        "example": "L'écran de mon téléphone est cassé.",
-        "see_also": [],
-        "pronunciation": "[écran]"
-    },
-    {
-        "word": "Clavier",
-        "level": "B1",
-        "definition": "keyboard (клавиатура)",
-        "example": "Il manque une touche sur mon clavier.",
-        "see_also": [],
-        "pronunciation": "[clavier]"
-    },
-    {
-        "word": "Souris",
-        "level": "B1",
-        "definition": "mouse (мышь)",
-        "example": "J'ai acheté une nouvelle souris sans fil.",
-        "see_also": [],
-        "pronunciation": "[souris]"
-    },
-    {
-        "word": "Avantage",
-        "level": "B1",
-        "definition": "advantage (преимущество)",
-        "example": "Quel est l'avantage de cette méthode ?",
-        "see_also": [],
-        "pronunciation": "[avantage]"
-    },
-    {
-        "word": "Inconvénient",
-        "level": "B1",
-        "definition": "disadvantage (недостаток)",
-        "example": "Le seul inconvénient est le prix.",
-        "see_also": [],
-        "pronunciation": "[inconvénient]"
-    },
-    {
-        "word": "Opinion",
-        "level": "B1",
-        "definition": "opinion (мнение)",
-        "example": "Donne-moi ton opinion sur ce sujet.",
-        "see_also": [],
-        "pronunciation": "[opinion]"
-    },
-    {
-        "word": "Expérience",
-        "level": "B1",
-        "definition": "experience (опыт)",
-        "example": "C'est une expérience inoubliable.",
-        "see_also": [],
-        "pronunciation": "[expérience]"
-    },
-    {
-        "word": "Développement",
-        "level": "B1",
-        "definition": "development (развитие)",
-        "example": "Le développement durable est essentiel.",
-        "see_also": [],
-        "pronunciation": "[développement]"
-    },
-    {
-        "word": "Projet",
-        "level": "B1",
-        "definition": "project (проект)",
-        "example": "Notre projet avance bien.",
-        "see_also": [],
-        "pronunciation": "[projet]"
-    },
-    {
-        "word": "Réunion",
-        "level": "B1",
-        "definition": "meeting (встреча, собрание)",
-        "example": "La réunion commence à 10 heures.",
-        "see_also": [],
-        "pronunciation": "[réunion]"
-    },
-    {
-        "word": "Objectif",
-        "level": "B1",
-        "definition": "objective / goal (цель)",
-        "example": "Mon objectif est d'atteindre le niveau c1.",
-        "see_also": [],
-        "pronunciation": "[objectif]"
-    },
-    {
-        "word": "Résultat",
-        "level": "B1",
-        "definition": "result (результат)",
-        "example": "Le résultat est très satisfaisant.",
-        "see_also": [],
-        "pronunciation": "[résultat]"
-    },
-    {
-        "word": "Solution",
-        "level": "B1",
-        "definition": "solution (решение)",
-        "example": "Nous trouverons une bonne solution.",
-        "see_also": [],
-        "pronunciation": "[solution]"
-    },
-    {
-        "word": "Approfondir",
-        "level": "B2",
-        "definition": "to deepen (углублять)",
-        "example": "Nous allons approfondir ce sujet.",
-        "see_also": [],
-        "pronunciation": "[approfondir]"
-    },
-    {
-        "word": "Convaincre",
-        "level": "B2",
-        "definition": "to convince (убеждать)",
-        "example": "Elle a réussi à le convaincre.",
-        "see_also": [],
-        "pronunciation": "[convaincre]"
-    },
-    {
-        "word": "Persuader",
-        "level": "B2",
-        "definition": "to persuade (уговаривать)",
-        "example": "Il essaie de me persuader de venir.",
-        "see_also": [],
-        "pronunciation": "[persuader]"
-    },
-    {
-        "word": "Négocier",
-        "level": "B2",
-        "definition": "to negotiate (вести переговоры)",
-        "example": "Ils doivent négocier les termes du contrat.",
-        "see_also": [],
-        "pronunciation": "[négocier]"
-    },
-    {
-        "word": "Soupçonner",
-        "level": "B2",
-        "definition": "to suspect (подозревать)",
-        "example": "La police le soupçonne de vol.",
-        "see_also": [],
-        "pronunciation": "[soupçonner]"
-    },
-    {
-        "word": "Envisager",
-        "level": "B2",
-        "definition": "to consider / envision (рассматривать, предусматривать)",
-        "example": "J'envisage de changer de carrière.",
-        "see_also": [],
-        "pronunciation": "[envisager]"
-    },
-    {
-        "word": "Soutenir",
-        "level": "B2",
-        "definition": "to support (поддерживать)",
-        "example": "Je soutiens ton initiative.",
-        "see_also": [],
-        "pronunciation": "[soutenir]"
-    },
-    {
-        "word": "Revendiquer",
-        "level": "B2",
-        "definition": "to claim / demand (требовать, заявлять)",
-        "example": "Les travailleurs revendiquent une hausse des salaires.",
-        "see_also": [],
-        "pronunciation": "[revendiquer]"
-    },
-    {
-        "word": "S'investir",
-        "level": "B2",
-        "definition": "to get involved / invest oneself (вкладываться)",
-        "example": "Il s'investit beaucoup dans son travail.",
-        "see_also": [],
-        "pronunciation": "[s'investir]"
-    },
-    {
-        "word": "Gérer",
-        "level": "B2",
-        "definition": "to manage (управлять)",
-        "example": "Elle sait parfaitement gérer une équipe.",
-        "see_also": [],
-        "pronunciation": "[gérer]"
-    },
-    {
-        "word": "Exiger",
-        "level": "B2",
-        "definition": "to require / demand (требовать)",
-        "example": "Cette situation exige toute notre attention.",
-        "see_also": [],
-        "pronunciation": "[exiger]"
-    },
-    {
-        "word": "Renforcer",
-        "level": "B2",
-        "definition": "to strengthen (укреплять)",
-        "example": "Nous devons renforcer la sécurité.",
-        "see_also": [],
-        "pronunciation": "[renforcer]"
-    },
-    {
-        "word": "Décevoir",
-        "level": "B2",
-        "definition": "to disappoint (разочаровывать)",
-        "example": "Le film m'a beaucoup déçu.",
-        "see_also": [],
-        "pronunciation": "[décevoir]"
-    },
-    {
-        "word": "Surprendre",
-        "level": "B2",
-        "definition": "to surprise (удивлять)",
-        "example": "Sa réaction m'a totalement surprise.",
-        "see_also": [],
-        "pronunciation": "[surprendre]"
-    },
-    {
-        "word": "Valoriser",
-        "level": "B2",
-        "definition": "to value / promote (ценить, повышать ценность)",
-        "example": "Il est important de valoriser les compétences de chacun.",
-        "see_also": [],
-        "pronunciation": "[valoriser]"
-    },
-    {
-        "word": "Débattre",
-        "level": "B2",
-        "definition": "to debate (обсуждать, дебатировать)",
-        "example": "Ils aiment débattre de la politique.",
-        "see_also": [],
-        "pronunciation": "[débattre]"
-    },
-    {
-        "word": "Critiquer",
-        "level": "B2",
-        "definition": "to criticize (критиковать)",
-        "example": "Il est facile de critiquer les autres.",
-        "see_also": [],
-        "pronunciation": "[critiquer]"
-    },
-    {
-        "word": "Justifier",
-        "level": "B2",
-        "definition": "to justify (оправдывать)",
-        "example": "Tu dois justifier ton retard.",
-        "see_also": [],
-        "pronunciation": "[justifier]"
-    },
-    {
-        "word": "Fournir",
-        "level": "B2",
-        "definition": "to provide (предоставлять)",
-        "example": "Ils doivent fournir des preuves.",
-        "see_also": [],
-        "pronunciation": "[fournir]"
-    },
-    {
-        "word": "Démontrer",
-        "level": "B2",
-        "definition": "to demonstrate (демонстрировать, доказывать)",
-        "example": "L'étude démontre l'efficacité du vaccin.",
-        "see_also": [],
-        "pronunciation": "[démontrer]"
-    },
-    {
-        "word": "Pertinent",
-        "level": "B2",
-        "definition": "relevant (уместный, релевантный)",
-        "example": "Votre remarque est très pertinente.",
-        "see_also": [],
-        "pronunciation": "[pertinent]"
-    },
-    {
-        "word": "Ambigu",
-        "level": "B2",
-        "definition": "ambiguous (двусмысленный)",
-        "example": "Sa réponse était un peu ambiguë.",
-        "see_also": [],
-        "pronunciation": "[ambigu]"
-    },
-    {
-        "word": "Complexe",
-        "level": "B2",
-        "definition": "complex (сложный)",
-        "example": "C'est un problème extrêmement complexe.",
-        "see_also": [],
-        "pronunciation": "[complexe]"
-    },
-    {
-        "word": "Paradoxal",
-        "level": "B2",
-        "definition": "paradoxical (парадоксальный)",
-        "example": "Il est paradoxal de vouloir la paix par la guerre.",
-        "see_also": [],
-        "pronunciation": "[paradoxal]"
-    },
-    {
-        "word": "Indispensable",
-        "level": "B2",
-        "definition": "indispensable / essential (необходимый)",
-        "example": "L'eau est indispensable à la vie.",
-        "see_also": [],
-        "pronunciation": "[indispensable]"
-    },
-    {
-        "word": "Aléatoire",
-        "level": "B2",
-        "definition": "random (случайный)",
-        "example": "Le résultat a été choisi de façon aléatoire.",
-        "see_also": [],
-        "pronunciation": "[aléatoire]"
-    },
-    {
-        "word": "Simultané",
-        "level": "B2",
-        "definition": "simultaneous (одновременный)",
-        "example": "Il y a eu deux attaques simultanées.",
-        "see_also": [],
-        "pronunciation": "[simultané]"
-    },
-    {
-        "word": "Délibéré",
-        "level": "B2",
-        "definition": "deliberate (преднамеренный)",
-        "example": "C'était un acte délibéré de sa part.",
-        "see_also": [],
-        "pronunciation": "[délibéré]"
-    },
-    {
-        "word": "Implicite",
-        "level": "B2",
-        "definition": "implicit (подразумеваемый)",
-        "example": "Son approbation était implicite.",
-        "see_also": [],
-        "pronunciation": "[implicite]"
-    },
-    {
-        "word": "Explicite",
-        "level": "B2",
-        "definition": "explicit (явный)",
-        "example": "Vous devez donner des consignes explicites.",
-        "see_also": [],
-        "pronunciation": "[explicite]"
-    },
-    {
-        "word": "Polémique",
-        "level": "B2",
-        "definition": "controversy (полемика, спор)",
-        "example": "Ce sujet suscite toujours la polémique.",
-        "see_also": [],
-        "pronunciation": "[polémique]"
-    },
-    {
-        "word": "Nuance",
-        "level": "B2",
-        "definition": "nuance (нюанс, оттенок)",
-        "example": "Il y a une nuance très subtile entre les deux mots.",
-        "see_also": [],
-        "pronunciation": "[nuance]"
-    },
-    {
-        "word": "Consensus",
-        "level": "B2",
-        "definition": "consensus (консенсус, согласие)",
-        "example": "Ils sont finalement parvenus à un consensus.",
-        "see_also": [],
-        "pronunciation": "[consensus]"
-    },
-    {
-        "word": "Priorité",
-        "level": "B2",
-        "definition": "priority (приоритет)",
-        "example": "L'éducation doit être notre priorité.",
-        "see_also": [],
-        "pronunciation": "[priorité]"
-    },
-    {
-        "word": "Contrainte",
-        "level": "B2",
-        "definition": "constraint (ограничение)",
-        "example": "Nous devons travailler avec ces contraintes.",
-        "see_also": [],
-        "pronunciation": "[contrainte]"
-    },
-    {
-        "word": "Compromis",
-        "level": "B2",
-        "definition": "compromise (компромисс)",
-        "example": "Il a fallu trouver un compromis.",
-        "see_also": [],
-        "pronunciation": "[compromis]"
-    },
-    {
-        "word": "Préjugé",
-        "level": "B2",
-        "definition": "prejudice (предрассудок)",
-        "example": "Il faut lutter contre les préjugés.",
-        "see_also": [],
-        "pronunciation": "[préjugé]"
-    },
-    {
-        "word": "Stéréotype",
-        "level": "B2",
-        "definition": "stereotype (стереотип)",
-        "example": "C'est le stéréotype classique de l'artiste.",
-        "see_also": [],
-        "pronunciation": "[stéréotype]"
-    },
-    {
-        "word": "Bénéfice",
-        "level": "B2",
-        "definition": "benefit / profit (выгода / прибыль)",
-        "example": "L'entreprise a fait beaucoup de bénéfices.",
-        "see_also": [],
-        "pronunciation": "[bénéfice]"
-    },
-    {
-        "word": "Impact",
-        "level": "B2",
-        "definition": "impact (воздействие, влияние)",
-        "example": "L'impact économique sera considérable.",
-        "see_also": [],
-        "pronunciation": "[impact]"
-    },
-    {
-        "word": "Hypothèse",
-        "level": "B2",
-        "definition": "hypothesis (гипотеза)",
-        "example": "Nous étudions une nouvelle hypothèse.",
-        "see_also": [],
-        "pronunciation": "[hypothèse]"
-    },
-    {
-        "word": "Enjeu",
-        "level": "B2",
-        "definition": "issue / stake (ставка, вызов)",
-        "example": "L'enjeu climatique est le grand défi de notre siècle.",
-        "see_also": [],
-        "pronunciation": "[enjeu]"
-    },
-    {
-        "word": "Perspectives",
-        "level": "B2",
-        "definition": "prospects (перспективы)",
-        "example": "Les perspectives d'avenir sont bonnes.",
-        "see_also": [],
-        "pronunciation": "[perspectives]"
-    },
-    {
-        "word": "Ressources",
-        "level": "B2",
-        "definition": "resources (ресурсы)",
-        "example": "Le pays manque de ressources naturelles.",
-        "see_also": [],
-        "pronunciation": "[ressources]"
-    },
-    {
-        "word": "Efficacité",
-        "level": "B2",
-        "definition": "efficiency (эффективность)",
-        "example": "Son efficacité au travail est impressionnante.",
-        "see_also": [],
-        "pronunciation": "[efficacité]"
-    },
-    {
-        "word": "Fiabilité",
-        "level": "B2",
-        "definition": "reliability (надёжность)",
-        "example": "La fiabilité de cette machine est garantie.",
-        "see_also": [],
-        "pronunciation": "[fiabilité]"
-    },
-    {
-        "word": "Compétence",
-        "level": "B2",
-        "definition": "skill / competence (компетенция, навык)",
-        "example": "Il possède de grandes compétences techniques.",
-        "see_also": [],
-        "pronunciation": "[compétence]"
-    },
-    {
-        "word": "Démarche",
-        "level": "B2",
-        "definition": "approach / process (подход, процедура)",
-        "example": "C'est une démarche très innovante.",
-        "see_also": [],
-        "pronunciation": "[démarche]"
-    },
-    {
-        "word": "Dispositif",
-        "level": "B2",
-        "definition": "device / feature (устройство, механизм)",
-        "example": "Le dispositif de sécurité a été renforcé.",
-        "see_also": [],
-        "pronunciation": "[dispositif]"
-    },
-    {
-        "word": "Stratégie",
-        "level": "B2",
-        "definition": "strategy (стратегия)",
-        "example": "Leur stratégie marketing a fonctionné.",
-        "see_also": [],
-        "pronunciation": "[stratégie]"
-    },
-    {
-        "word": "Aborder",
-        "level": "C1",
-        "definition": "to tackle / approach",
-        "example": "Comment allez-vous aborder ce problème complexe ?",
-        "see_also": [],
-        "pronunciation": "[aborder]"
-    },
-    {
-        "word": "Pallier",
-        "level": "C1",
-        "definition": "to mitigate / overcome",
-        "example": "Nous devons pallier le manque de personnel.",
-        "see_also": [],
-        "pronunciation": "[pallier]"
-    },
-    {
-        "word": "Susciter",
-        "level": "C1",
-        "definition": "to arouse / provoke",
-        "example": "Ce discours a suscité de vives réactions.",
-        "see_also": [],
-        "pronunciation": "[susciter]"
-    },
-    {
-        "word": "Déceler",
-        "level": "C1",
-        "definition": "to detect / perceive",
-        "example": "Il est difficile de déceler ses intentions.",
-        "see_also": [],
-        "pronunciation": "[déceler]"
-    },
-    {
-        "word": "Atténuer",
-        "level": "C1",
-        "definition": "to alleviate / soften",
-        "example": "Ce médicament permet d'atténuer la douleur.",
-        "see_also": [],
-        "pronunciation": "[atténuer]"
-    },
-    {
-        "word": "Inculquer",
-        "level": "C1",
-        "definition": "to instill",
-        "example": "On doit inculquer de bonnes valeurs aux enfants.",
-        "see_also": [],
-        "pronunciation": "[inculquer]"
-    },
-    {
-        "word": "Fustiger",
-        "level": "C1",
-        "definition": "to castigate / blast",
-        "example": "La presse a fustigé les actions du ministre.",
-        "see_also": [],
-        "pronunciation": "[fustiger]"
-    },
-    {
-        "word": "Octroyer",
-        "level": "C1",
-        "definition": "to grant",
-        "example": "La banque lui a octroyé un prêt conséquent.",
-        "see_also": [],
-        "pronunciation": "[octroyer]"
-    },
-    {
-        "word": "Plébisciter",
-        "level": "C1",
-        "definition": "to vote for overwhelmingly / endorse",
-        "example": "Le projet a été plébiscité par l'ensemble des citoyens.",
-        "see_also": [],
-        "pronunciation": "[plébisciter]"
-    },
-    {
-        "word": "Pérenniser",
-        "level": "C1",
-        "definition": "to make permanent / sustain",
-        "example": "Il faut pérenniser ce modèle de développement.",
-        "see_also": [],
-        "pronunciation": "[pérenniser]"
-    },
-    {
-        "word": "Dénigrer",
-        "level": "C1",
-        "definition": "to denigrate",
-        "example": "Elle passe son temps à dénigrer le travail des autres.",
-        "see_also": [],
-        "pronunciation": "[dénigrer]"
-    },
-    {
-        "word": "Exacerber",
-        "level": "C1",
-        "definition": "to exacerbate",
-        "example": "Ces mesures ne font qu'exacerber les tensions sociales.",
-        "see_also": [],
-        "pronunciation": "[exacerber]"
-    },
-    {
-        "word": "Révoquer",
-        "level": "C1",
-        "definition": "to revoke / dismiss",
-        "example": "Le directeur a été révoqué pour faute grave.",
-        "see_also": [],
-        "pronunciation": "[révoquer]"
-    },
-    {
-        "word": "Entraver",
-        "level": "C1",
-        "definition": "to hinder / hamper",
-        "example": "Le manque de financement entrave la recherche.",
-        "see_also": [],
-        "pronunciation": "[entraver]"
-    },
-    {
-        "word": "Contourner",
-        "level": "C1",
-        "definition": "to bypass",
-        "example": "Ils ont réussi à contourner les restrictions légales.",
-        "see_also": [],
-        "pronunciation": "[contourner]"
-    },
-    {
-        "word": "Réhabiliter",
-        "level": "C1",
-        "definition": "to rehabilitate",
-        "example": "On a décidé de réhabiliter ce quartier historique.",
-        "see_also": [],
-        "pronunciation": "[réhabiliter]"
-    },
-    {
-        "word": "Assimiler",
-        "level": "C1",
-        "definition": "to assimilate",
-        "example": "Il lui faut du temps pour assimiler toutes ces connaissances.",
-        "see_also": [],
-        "pronunciation": "[assimiler]"
-    },
-    {
-        "word": "Impartir",
-        "level": "C1",
-        "definition": "to allot / impart",
-        "example": "Le temps imparti pour l'examen est de deux heures.",
-        "see_also": [],
-        "pronunciation": "[impartir]"
-    },
-    {
-        "word": "Réprimer",
-        "level": "C1",
-        "definition": "to suppress / repress",
-        "example": "La police a réprimé la manifestation avec force.",
-        "see_also": [],
-        "pronunciation": "[réprimer]"
-    },
-    {
-        "word": "Vulgariser",
-        "level": "C1",
-        "definition": "to popularize (science/knowledge)",
-        "example": "Son rôle est de vulgariser la recherche scientifique.",
-        "see_also": [],
-        "pronunciation": "[vulgariser]"
-    },
-    {
-        "word": "Obsolète",
-        "level": "C1",
-        "definition": "obsolete",
-        "example": "Cette méthode de gestion est complètement obsolète.",
-        "see_also": [],
-        "pronunciation": "[obsolète]"
-    },
-    {
-        "word": "Inhérent",
-        "level": "C1",
-        "definition": "inherent",
-        "example": "Le risque est inhérent à toute création d'entreprise.",
-        "see_also": [],
-        "pronunciation": "[inhérent]"
-    },
-    {
-        "word": "Éphémère",
-        "level": "C1",
-        "definition": "ephemeral / fleeting",
-        "example": "La célébrité est souvent un phénomène très éphémère.",
-        "see_also": [],
-        "pronunciation": "[éphémère]"
-    },
-    {
-        "word": "Tangible",
-        "level": "C1",
-        "definition": "tangible",
-        "example": "Nous n'avons aucune preuve tangible contre lui.",
-        "see_also": [],
-        "pronunciation": "[tangible]"
-    },
-    {
-        "word": "Omniprésent",
-        "level": "C1",
-        "definition": "omnipresent",
-        "example": "La publicité est omniprésente dans notre société.",
-        "see_also": [],
-        "pronunciation": "[omniprésent]"
-    },
-    {
-        "word": "Chronophage",
-        "level": "C1",
-        "definition": "time-consuming",
-        "example": "Répondre à tous ces courriels est très chronophage.",
-        "see_also": [],
-        "pronunciation": "[chronophage]"
-    },
-    {
-        "word": "Éclectique",
-        "level": "C1",
-        "definition": "eclectic",
-        "example": "Il possède des goûts musicaux particulièrement éclectiques.",
-        "see_also": [],
-        "pronunciation": "[éclectique]"
-    },
-    {
-        "word": "Factice",
-        "level": "C1",
-        "definition": "artificial / fake",
-        "example": "Il riait d'un rire nerveux et factice.",
-        "see_also": [],
-        "pronunciation": "[factice]"
-    },
-    {
-        "word": "Lucratif",
-        "level": "C1",
-        "definition": "lucrative",
-        "example": "Il s'est engagé dans un marché très lucratif.",
-        "see_also": [],
-        "pronunciation": "[lucratif]"
-    },
-    {
-        "word": "Nébuleux",
-        "level": "C1",
-        "definition": "nebulous / vague",
-        "example": "Le concept qu'il a présenté restait très nébuleux.",
-        "see_also": [],
-        "pronunciation": "[nébuleux]"
-    },
-    {
-        "word": "Désuet",
-        "level": "C1",
-        "definition": "outdated",
-        "example": "Il utilise des expressions d'un autre temps, très désuètes.",
-        "see_also": [],
-        "pronunciation": "[désuet]"
-    },
-    {
-        "word": "Antagoniste",
-        "level": "C1",
-        "definition": "antagonistic / opposing",
-        "example": "Ils ont défendu des positions totalement antagonistes.",
-        "see_also": [],
-        "pronunciation": "[antagoniste]"
-    },
-    {
-        "word": "Draconien",
-        "level": "C1",
-        "definition": "draconian",
-        "example": "Le gouvernement a imposé des mesures draconiennes.",
-        "see_also": [],
-        "pronunciation": "[draconien]"
-    },
-    {
-        "word": "Illicite",
-        "level": "C1",
-        "definition": "illicit",
-        "example": "Le trafic de substances illicites a augmenté.",
-        "see_also": [],
-        "pronunciation": "[illicite]"
-    },
-    {
-        "word": "Intrinsèque",
-        "level": "C1",
-        "definition": "intrinsic",
-        "example": "La valeur intrinsèque du bijou n'est pas si élevée.",
-        "see_also": [],
-        "pronunciation": "[intrinsèque]"
-    },
-    {
-        "word": "Récurrence",
-        "level": "C1",
-        "definition": "recurrence",
-        "example": "La récurrence de ces erreurs nous inquiète beaucoup.",
-        "see_also": [],
-        "pronunciation": "[récurrence]"
-    },
-    {
-        "word": "Aberration",
-        "level": "C1",
-        "definition": "aberration",
-        "example": "Ce jugement est une aberration totale !",
-        "see_also": [],
-        "pronunciation": "[aberration]"
-    },
-    {
-        "word": "Dichotomie",
-        "level": "C1",
-        "definition": "dichotomy",
-        "example": "On observe une véritable dichotomie entre théorie et pratique.",
-        "see_also": [],
-        "pronunciation": "[dichotomie]"
-    },
-    {
-        "word": "Paroxysme",
-        "level": "C1",
-        "definition": "paroxysm / climax",
-        "example": "La tension est arrivée à son paroxysme lors du débat.",
-        "see_also": [],
-        "pronunciation": "[paroxysme]"
-    },
-    {
-        "word": "Clivage",
-        "level": "C1",
-        "definition": "divide / split",
-        "example": "Il y a un clivage générationnel important à prendre en compte.",
-        "see_also": [],
-        "pronunciation": "[clivage]"
-    },
-    {
-        "word": "Émergence",
-        "level": "C1",
-        "definition": "emergence",
-        "example": "Nous assistons à l'émergence de nouvelles technologies.",
-        "see_also": [],
-        "pronunciation": "[émergence]"
-    },
-    {
-        "word": "Hégémonie",
-        "level": "C1",
-        "definition": "hegemony",
-        "example": "La superpuissance impose son hégémonie culturelle.",
-        "see_also": [],
-        "pronunciation": "[hégémonie]"
-    },
-    {
-        "word": "Plaidoyer",
-        "level": "C1",
-        "definition": "plea / advocacy",
-        "example": "Son discours était un véritable plaidoyer pour la paix.",
-        "see_also": [],
-        "pronunciation": "[plaidoyer]"
-    },
-    {
-        "word": "Apanage",
-        "level": "C1",
-        "definition": "prerogative / privilege",
-        "example": "L'intelligence n'est pas l'apanage de l'être humain.",
-        "see_also": [],
-        "pronunciation": "[apanage]"
-    },
-    {
-        "word": "Engouement",
-        "level": "C1",
-        "definition": "craze / enthusiam",
-        "example": "On note un engouement récent pour les énergies vertes.",
-        "see_also": [],
-        "pronunciation": "[engouement]"
-    },
-    {
-        "word": "Iniquité",
-        "level": "C1",
-        "definition": "inequity / unfairness",
-        "example": "L'iniquité du système fiscal doit être réformée.",
-        "see_also": [],
-        "pronunciation": "[iniquité]"
-    },
-    {
-        "word": "Répercussion",
-        "level": "C1",
-        "definition": "repercussion",
-        "example": "Cette décision aura des répercussions sur l'emploi.",
-        "see_also": [],
-        "pronunciation": "[répercussion]"
-    },
-    {
-        "word": "Conjecture",
-        "level": "C1",
-        "definition": "conjecture / guess",
-        "example": "Tout ce que vous dites n'est que pure conjecture.",
-        "see_also": [],
-        "pronunciation": "[conjecture]"
-    },
-    {
-        "word": "Prorogation",
-        "level": "C1",
-        "definition": "extension",
-        "example": "Le syndicat a demandé la prorogation du délai d'inscription.",
-        "see_also": [],
-        "pronunciation": "[prorogation]"
-    },
-    {
-        "word": "S'arroger",
-        "level": "C2",
-        "definition": "to arrogate / lay claim to",
-        "example": "Il s'est arrogé des droits qu'il n'avait pas.",
-        "see_also": [],
-        "pronunciation": "[s'arroger]"
-    },
-    {
-        "word": "Vilipender",
-        "level": "C2",
-        "definition": "to vilify / abuse",
-        "example": "Cet auteur a été vilipendé par la critique littéraire.",
-        "see_also": [],
-        "pronunciation": "[vilipender]"
-    },
-    {
-        "word": "Éluder",
-        "level": "C2",
-        "definition": "to evade",
-        "example": "Le politicien a tenté d'éluder la question du journaliste.",
-        "see_also": [],
-        "pronunciation": "[éluder]"
-    },
-    {
-        "word": "Entériner",
-        "level": "C2",
-        "definition": "to ratify / validate",
-        "example": "L'accord a été entériné par le conseil d'administration.",
-        "see_also": [],
-        "pronunciation": "[entériner]"
-    },
-    {
-        "word": "Oblitérer",
-        "level": "C2",
-        "definition": "to obliterate / cancel",
-        "example": "Le temps n'a pas pu oblitérer ses souvenirs les plus douloureux.",
-        "see_also": [],
-        "pronunciation": "[oblitérer]"
-    },
-    {
-        "word": "Conspuer",
-        "level": "C2",
-        "definition": "to boo / jeer",
-        "example": "L'arbitre a été conspué par les supporters en colère.",
-        "see_also": [],
-        "pronunciation": "[conspuer]"
-    },
-    {
-        "word": "Fomenter",
-        "level": "C2",
-        "definition": "to foment / stir up",
-        "example": "On l'accuse de fomenter une rébellion au sein du parti.",
-        "see_also": [],
-        "pronunciation": "[fomenter]"
-    },
-    {
-        "word": "Aliéner",
-        "level": "C2",
-        "definition": "to alienate",
-        "example": "Cette loi risque d'aliéner une grande partie de la population.",
-        "see_also": [],
-        "pronunciation": "[aliéner]"
-    },
-    {
-        "word": "Infirmer",
-        "level": "C2",
-        "definition": "to invalidate / refute",
-        "example": "Les nouvelles études viennent infirmer la théorie précédente.",
-        "see_also": [],
-        "pronunciation": "[infirmer]"
-    },
-    {
-        "word": "Subjuguer",
-        "level": "C2",
-        "definition": "to captivate / enthral",
-        "example": "Le public a été véritablement subjugué par sa performance.",
-        "see_also": [],
-        "pronunciation": "[subjuguer]"
-    },
-    {
-        "word": "Récuser",
-        "level": "C2",
-        "definition": "to reject / challenge",
-        "example": "L'accusé a voulu récuser le magistrat qui menait le procès.",
-        "see_also": [],
-        "pronunciation": "[récuser]"
-    },
-    {
-        "word": "Bafouer",
-        "level": "C2",
-        "definition": "to flout / ridicule",
-        "example": "Comment osez-vous bafouer ainsi les lois de la république ?",
-        "see_also": [],
-        "pronunciation": "[bafouer]"
-    },
-    {
-        "word": "Extorquer",
-        "level": "C2",
-        "definition": "to extort",
-        "example": "Ils ont réussi à lui extorquer des aveux signés.",
-        "see_also": [],
-        "pronunciation": "[extorquer]"
-    },
-    {
-        "word": "Exhumer",
-        "level": "C2",
-        "definition": "to exhume",
-        "example": "La police a dû exhumer le corps pour l'autopsie.",
-        "see_also": [],
-        "pronunciation": "[exhumer]"
-    },
-    {
-        "word": "Corroborer",
-        "level": "C2",
-        "definition": "to corroborate",
-        "example": "Ceci vient corroborer l'analyse qui avait été faite.",
-        "see_also": [],
-        "pronunciation": "[corroborer]"
-    },
-    {
-        "word": "Stigmatiser",
-        "level": "C2",
-        "definition": "to stigmatize",
-        "example": "Il est trop facile de stigmatiser les classes populaires.",
-        "see_also": [],
-        "pronunciation": "[stigmatiser]"
-    },
-    {
-        "word": "Dilapider",
-        "level": "C2",
-        "definition": "to squander / waste",
-        "example": "Il a dilapidé la fortune familiale aux jeux d'argent.",
-        "see_also": [],
-        "pronunciation": "[dilapider]"
-    },
-    {
-        "word": "Tergiverser",
-        "level": "C2",
-        "definition": "to procrastinate / prevaricate",
-        "example": "Arrêtez de tergiverser et prenez enfin une décision !",
-        "see_also": [],
-        "pronunciation": "[tergiverser]"
-    },
-    {
-        "word": "Farder",
-        "level": "C2",
-        "definition": "to disguise / make up",
-        "example": "Il essaie de farder la vérité avec de jolies paroles.",
-        "see_also": [],
-        "pronunciation": "[farder]"
-    },
-    {
-        "word": "Répudier",
-        "level": "C2",
-        "definition": "to repudiate / reject",
-        "example": "Il a formellement répudié les actions de ses prédécesseurs.",
-        "see_also": [],
-        "pronunciation": "[répudier]"
-    },
-    {
-        "word": "Abscons",
-        "level": "C2",
-        "definition": "abstruse / obscure",
-        "example": "Le philosophe s'est exprimé dans un jargon très abscons.",
-        "see_also": [],
-        "pronunciation": "[abscons]"
-    },
-    {
-        "word": "Fallacieux",
-        "level": "C2",
-        "definition": "fallacious / misleading",
-        "example": "Son argumentation repose sur des prémisses fallacieuses.",
-        "see_also": [],
-        "pronunciation": "[fallacieux]"
-    },
-    {
-        "word": "Péremptoire",
-        "level": "C2",
-        "definition": "peremptory",
-        "example": "Il a répondu d'un ton si péremptoire que personne n'a osé parler.",
-        "see_also": [],
-        "pronunciation": "[péremptoire]"
-    },
-    {
-        "word": "Pusillanime",
-        "level": "C2",
-        "definition": "pusillanimous / faint-hearted",
-        "example": "Leur gestion de crise s'est avérée particulièrement pusillanime.",
-        "see_also": [],
-        "pronunciation": "[pusillanime]"
-    },
-    {
-        "word": "Prolixe",
-        "level": "C2",
-        "definition": "prolix / wordy",
-        "example": "L'orateur s'est montré tellement prolixe que l'auditoire s'est endormi.",
-        "see_also": [],
-        "pronunciation": "[prolixe]"
-    },
-    {
-        "word": "Insidieux",
-        "level": "C2",
-        "definition": "insidious",
-        "example": "Le poison attaque le système nerveux de manière insidieuse.",
-        "see_also": [],
-        "pronunciation": "[insidieux]"
-    },
-    {
-        "word": "Obséquieux",
-        "level": "C2",
-        "definition": "obsequious / sycophantic",
-        "example": "Le maître d'hôtel nous a accueillis avec un sourire obséquieux.",
-        "see_also": [],
-        "pronunciation": "[obséquieux]"
-    },
-    {
-        "word": "Laconique",
-        "level": "C2",
-        "definition": "laconic / concise",
-        "example": "Sa réponse fut si laconique que j'ai cru qu'il était fâché.",
-        "see_also": [],
-        "pronunciation": "[laconique]"
-    },
-    {
-        "word": "Tacite",
-        "level": "C2",
-        "definition": "tacit / unspoken",
-        "example": "Nous avons conclu un accord tacite de non-agression.",
-        "see_also": [],
-        "pronunciation": "[tacite]"
-    },
-    {
-        "word": "Inénarrable",
-        "level": "C2",
-        "definition": "indescribable / hilarious",
-        "example": "Ce personnage est d'un comique inénarrable !",
-        "see_also": [],
-        "pronunciation": "[inénarrable]"
-    },
-    {
-        "word": "Outrecuidant",
-        "level": "C2",
-        "definition": "presumptuous / arrogant",
-        "example": "Il a eu le culot outrecuidant de me demander plus d'argent.",
-        "see_also": [],
-        "pronunciation": "[outrecuidant]"
-    },
-    {
-        "word": "Veule",
-        "level": "C2",
-        "definition": "spineless / weak-willed",
-        "example": "Ce dirigeant a toujours fait preuve d'un caractère veule.",
-        "see_also": [],
-        "pronunciation": "[veule]"
-    },
-    {
-        "word": "Ubuesque",
-        "level": "C2",
-        "definition": "grotesque / absurd",
-        "example": "Nous nous sommes retrouvés dans une situation totalement ubuesque.",
-        "see_also": [],
-        "pronunciation": "[ubuesque]"
-    },
-    {
-        "word": "Ineffable",
-        "level": "C2",
-        "definition": "ineffable / unspeakable",
-        "example": "J'ai ressenti un bonheur ineffable à la vue du chef-d'œuvre.",
-        "see_also": [],
-        "pronunciation": "[ineffable]"
-    },
-    {
-        "word": "Truculent",
-        "level": "C2",
-        "definition": "colourful / earthy",
-        "example": "C'est un personnage truculent, qui n'a pas la langue dans sa poche.",
-        "see_also": [],
-        "pronunciation": "[truculent]"
-    },
-    {
-        "word": "Caustique",
-        "level": "C2",
-        "definition": "caustic / biting",
-        "example": "Son humour caustique ne plaît pas à tout le monde.",
-        "see_also": [],
-        "pronunciation": "[caustique]"
-    },
-    {
-        "word": "Frivole",
-        "level": "C2",
-        "definition": "frivolous",
-        "example": "On l'accuse souvent d'être frivol et de manquer de sérieux.",
-        "see_also": [],
-        "pronunciation": "[frivole]"
-    },
-    {
-        "word": "Acerbe",
-        "level": "C2",
-        "definition": "acerbic / sour",
-        "example": "Le critique a rédigé un article au ton singulièrement acerbe.",
-        "see_also": [],
-        "pronunciation": "[acerbe]"
-    },
-    {
-        "word": "Indigent",
-        "level": "C2",
-        "definition": "destitute / poor",
-        "example": "Ce discours m'a paru d'une pauvreté intellectuelle indigente.",
-        "see_also": [],
-        "pronunciation": "[indigent]"
-    },
-    {
-        "word": "Sycophante",
-        "level": "C2",
-        "definition": "sycophant / telltale",
-        "example": "Méfiez-vous de ce sycophante qui ira tout rapporter au chef.",
-        "see_also": [],
-        "pronunciation": "[sycophante]"
-    },
-    {
-        "word": "Dithyrambique",
-        "level": "C2",
-        "definition": "highly praising / glowing",
-        "example": "Les journaux ont publié des critiques dithyrambiques du spectacle.",
-        "see_also": [],
-        "pronunciation": "[dithyrambique]"
-    },
-    {
-        "word": "Abnégation",
-        "level": "C2",
-        "definition": "self-sacrifice",
-        "example": "Son implication nécessitait une totale abnégation de soi-même.",
-        "see_also": [],
-        "pronunciation": "[abnégation]"
-    },
-    {
-        "word": "Vacuité",
-        "level": "C2",
-        "definition": "emptiness / vacuity",
-        "example": "J'ai été atterré par la vacuité de ses propos philosophiques.",
-        "see_also": [],
-        "pronunciation": "[vacuité]"
-    },
-    {
-        "word": "Atavisme",
-        "level": "C2",
-        "definition": "atavism",
-        "example": "Son goût pour l'aventure est sans doute dû à une forme d'atavisme.",
-        "see_also": [],
-        "pronunciation": "[atavisme]"
-    },
-    {
-        "word": "Solécisme",
-        "level": "C2",
-        "definition": "solecism",
-        "example": "Il a prononcé une phrase remplie de solécismes.",
-        "see_also": [],
-        "pronunciation": "[solécisme]"
-    },
-    {
-        "word": "Nadir",
-        "level": "C2",
-        "definition": "nadir / lowest point",
-        "example": "Sa popularité a atteint son nadir à la suite du scandale.",
-        "see_also": [],
-        "pronunciation": "[nadir]"
-    },
-    {
-        "word": "Incurie",
-        "level": "C2",
-        "definition": "carelessness / negligence",
-        "example": "Les ponts se sont effondrés à cause de l'incurie de l'administration.",
-        "see_also": [],
-        "pronunciation": "[incurie]"
-    },
-    {
-        "word": "Panacée",
-        "level": "C2",
-        "definition": "panacea / cure-all",
-        "example": "Cette réforme est loin d'être la panacée à tous nos problèmes.",
-        "see_also": [],
-        "pronunciation": "[panacée]"
-    },
-    {
-        "word": "Ostentation",
-        "level": "C2",
-        "definition": "ostentation / showiness",
-        "example": "Il a toujours aimé afficher sa richesse avec ostentation.",
-        "see_also": [],
-        "pronunciation": "[ostentation]"
-    },
-    {
-        "word": "Synergies",
-        "level": "C2",
-        "definition": "synergies",
-        "example": "La fusion des deux groupes permettra de dégager de nouvelles synergies.",
-        "see_also": [],
-        "pronunciation": "[synergies]"
-    }
+{
+"word": "Bonjour",
+"level": "A1",
+"definition": "hello, good morning (привет, доброе утро)",
+"example": "Bonjour, comment allez-vous ?",
+"see_also": [],
+"pronunciation": "[bon-zhoor]"
+},
+{
+"word": "Merci",
+"level": "A1",
+"definition": "thank you (спасибо)",
+"example": "Merci beaucoup pour votre aide.",
+"see_also": [],
+"pronunciation": "[mehr-see]"
+},
+{
+"word": "Oui",
+"level": "A1",
+"definition": "yes (да)",
+"example": "Oui, je suis prêt.",
+"see_also": [],
+"pronunciation": "[wee]"
+},
+{
+"word": "Non",
+"level": "A1",
+"definition": "no (нет)",
+"example": "Non, je ne veux pas.",
+"see_also": [],
+"pronunciation": "[nohn]"
+},
+{
+"word": "S'il vous plaît",
+"level": "A1",
+"definition": "please (пожалуйста)",
+"example": "Donnez-moi ça, s'il vous plaît.",
+"see_also": [],
+"pronunciation": "[see voo pleh]"
+},
+{
+"word": "Chat",
+"level": "A1",
+"definition": "cat (кот)",
+"example": "Le chat dort sur le canapé.",
+"see_also": [],
+"pronunciation": "[shah]"
+},
+{
+"word": "Chien",
+"level": "A1",
+"definition": "dog (собака)",
+"example": "Mon chien aime jouer dans le parc.",
+"see_also": [],
+"pronunciation": "[shee-ahn]"
+},
+{
+"word": "Maison",
+"level": "A1",
+"definition": "house (дом)",
+"example": "J'habite dans une grande maison.",
+"see_also": [],
+"pronunciation": "[meh-zohn]"
+},
+{
+"word": "Livre",
+"level": "A1",
+"definition": "book (книга)",
+"example": "Je lis un livre intéressant.",
+"see_also": [],
+"pronunciation": "[lee-vruh]"
+},
+{
+"word": "Eau",
+"level": "A1",
+"definition": "water (вода)",
+"example": "Je voudrais un verre d'eau.",
+"see_also": [],
+"pronunciation": "[oh]"
+},
+{
+"word": "Pain",
+"level": "A1",
+"definition": "bread (хлеб)",
+"example": "Je mange du pain au petit déjeuner.",
+"see_also": [],
+"pronunciation": "[pahn]"
+},
+{
+"word": "Fille",
+"level": "A1",
+"definition": "girl (девочка)",
+"example": "La fille joue dans le jardin.",
+"see_also": [],
+"pronunciation": "[fee-yuh]"
+},
+{
+"word": "Garçon",
+"level": "A1",
+"definition": "boy (мальчик)",
+"example": "Le garçon regarde la télévision.",
+"see_also": [],
+"pronunciation": "[gar-sohn]"
+},
+{
+"word": "Pomme",
+"level": "A1",
+"definition": "apple (яблоко)",
+"example": "Je mange une pomme rouge.",
+"see_also": [],
+"pronunciation": "[pom]"
+},
+{
+"word": "Lait",
+"level": "A1",
+"definition": "milk (молоко)",
+"example": "Il boit du lait froid.",
+"see_also": [],
+"pronunciation": "[leh]"
+},
+{
+"word": "École",
+"level": "A1",
+"definition": "school (школа)",
+"example": "Je vais à l'école tous les jours.",
+"see_also": [],
+"pronunciation": "[ay-kol]"
+},
+{
+"word": "Voiture",
+"level": "A1",
+"definition": "car (машина)",
+"example": "Sa voiture est très rapide.",
+"see_also": [],
+"pronunciation": "[vwah-tyur]"
+},
+{
+"word": "Mère",
+"level": "A1",
+"definition": "mother (мать)",
+"example": "Ma mère est gentille.",
+"see_also": [],
+"pronunciation": "[mehr]"
+},
+{
+"word": "Père",
+"level": "A1",
+"definition": "father (отец)",
+"example": "Mon père travaille loin.",
+"see_also": [],
+"pronunciation": "[pair]"
+},
+{
+"word": "Frère",
+"level": "A1",
+"definition": "brother (брат)",
+"example": "Mon frère s'appelle Paul.",
+"see_also": [],
+"pronunciation": "[frehr]"
+},
+{
+"word": "Sœur",
+"level": "A1",
+"definition": "sister (сестра)",
+"example": "J'ai une petite sœur.",
+"see_also": [],
+"pronunciation": "[suhr]"
+},
+{
+"word": "Ami",
+"level": "A1",
+"definition": "friend (друг)",
+"example": "Voici mon meilleur ami.",
+"see_also": [],
+"pronunciation": "[ah-mee]"
+},
+{
+"word": "Nuit",
+"level": "A1",
+"definition": "night (ночь)",
+"example": "La nuit, il fait noir.",
+"see_also": [],
+"pronunciation": "[nwee]"
+},
+{
+"word": "Jour",
+"level": "A1",
+"definition": "day (день)",
+"example": "Le jour se lève tôt.",
+"see_also": [],
+"pronunciation": "[zhoor]"
+},
+{
+"word": "Soleil",
+"level": "A1",
+"definition": "sun (солнце)",
+"example": "Le soleil brille aujourd'hui.",
+"see_also": [],
+"pronunciation": "[so-lay]"
+},
+{
+"word": "Temps",
+"level": "A1",
+"definition": "time / weather (время / погода)",
+"example": "Quel temps fait-il ?",
+"see_also": [],
+"pronunciation": "[tahn]"
+},
+{
+"word": "Beau",
+"level": "A1",
+"definition": "beautiful / handsome (красивый)",
+"example": "Ce tableau est très beau.",
+"see_also": [],
+"pronunciation": "[boh]"
+},
+{
+"word": "Petit",
+"level": "A1",
+"definition": "small (маленький)",
+"example": "C'est un petit chien.",
+"see_also": [],
+"pronunciation": "[puh-tee]"
+},
+{
+"word": "Grand",
+"level": "A1",
+"definition": "big (большой)",
+"example": "C'est un grand bâtiment.",
+"see_also": [],
+"pronunciation": "[grahn]"
+},
+{
+"word": "Bon",
+"level": "A1",
+"definition": "good (хороший)",
+"example": "Ce gâteau est très bon.",
+"see_also": [],
+"pronunciation": "[bohn]"
+},
+{
+"word": "Femme",
+"level": "A1",
+"definition": "woman / wife (женщина / жена)",
+"example": "C'est une femme intelligente.",
+"see_also": [],
+"pronunciation": "[fahm]"
+},
+{
+"word": "Homme",
+"level": "A1",
+"definition": "man (мужчина)",
+"example": "L'homme porte un manteau.",
+"see_also": [],
+"pronunciation": "[om]"
+},
+{
+"word": "Enfant",
+"level": "A1",
+"definition": "child (ребёнок)",
+"example": "L'enfant joue avec ses jouets.",
+"see_also": [],
+"pronunciation": "[ahn-fahn]"
+},
+{
+"word": "Toujours",
+"level": "A1",
+"definition": "always (всегда)",
+"example": "Je suis toujours à l'heure.",
+"see_also": [],
+"pronunciation": "[too-zhoor]"
+},
+{
+"word": "Jamais",
+"level": "A1",
+"definition": "never (никогда)",
+"example": "Je ne bois jamais de café.",
+"see_also": [],
+"pronunciation": "[zhah-meh]"
+},
+{
+"word": "Souvent",
+"level": "A1",
+"definition": "often (часто)",
+"example": "Je vais souvent au cinéma.",
+"see_also": [],
+"pronunciation": "[soo-vahn]"
+},
+{
+"word": "Parler",
+"level": "A1",
+"definition": "to speak (говорить)",
+"example": "Je parle français un peu.",
+"see_also": [],
+"pronunciation": "[par-lay]"
+},
+{
+"word": "Manger",
+"level": "A1",
+"definition": "to eat (есть, кушать)",
+"example": "Nous allons manger au restaurant.",
+"see_also": [],
+"pronunciation": "[mahn-zhay]"
+},
+{
+"word": "Boire",
+"level": "A1",
+"definition": "to drink (пить)",
+"example": "Je veux boire de l'eau.",
+"see_also": [],
+"pronunciation": "[bwahr]"
+},
+{
+"word": "Dormir",
+"level": "A1",
+"definition": "to sleep (спать)",
+"example": "Il est temps de dormir.",
+"see_also": [],
+"pronunciation": "[dor-meer]"
+},
+{
+"word": "Aller",
+"level": "A1",
+"definition": "to go (идти, ехать)",
+"example": "Je vais au supermarché.",
+"see_also": [],
+"pronunciation": "[ah-lay]"
+},
+{
+"word": "Faire",
+"level": "A1",
+"definition": "to do / make (делать)",
+"example": "Qu'est-ce que tu vas faire ?",
+"see_also": [],
+"pronunciation": "[fehr]"
+},
+{
+"word": "Voir",
+"level": "A1",
+"definition": "to see (видеть)",
+"example": "Je ne peux pas voir d'ici.",
+"see_also": [],
+"pronunciation": "[vwahr]"
+},
+{
+"word": "Aimer",
+"level": "A1",
+"definition": "to like / love (любить, нравиться)",
+"example": "J'aime la musique classique.",
+"see_also": [],
+"pronunciation": "[ay-may]"
+},
+{
+"word": "Avoir",
+"level": "A1",
+"definition": "to have (иметь)",
+"example": "J'ai deux chats.",
+"see_also": [],
+"pronunciation": "[ah-vwahr]"
+},
+{
+"word": "Être",
+"level": "A1",
+"definition": "to be (быть)",
+"example": "Je suis très fatigué.",
+"see_also": [],
+"pronunciation": "[eh-truh]"
+},
+{
+"word": "Maintenant",
+"level": "A1",
+"definition": "now (сейчас)",
+"example": "Je dois partir maintenant.",
+"see_also": [],
+"pronunciation": "[mant-nahn]"
+},
+{
+"word": "Aujourd'hui",
+"level": "A1",
+"definition": "today (сегодня)",
+"example": "Nous sommes lundi aujourd'hui.",
+"see_also": [],
+"pronunciation": "[oh-zhoor-dwee]"
+},
+{
+"word": "Demain",
+"level": "A1",
+"definition": "tomorrow (завтра)",
+"example": "Je te verrai demain.",
+"see_also": [],
+"pronunciation": "[duh-man]"
+},
+{
+"word": "Hier",
+"level": "A1",
+"definition": "yesterday (вчера)",
+"example": "Il a plu hier.",
+"see_also": [],
+"pronunciation": "[yehr]"
+},
+{
+"word": "Acheter",
+"level": "A2",
+"definition": "to buy (покупать)",
+"example": "Je vais acheter du lait.",
+"see_also": [],
+"pronunciation": "[ahsh-tay]"
+},
+{
+"word": "Vendre",
+"level": "A2",
+"definition": "to sell (продавать)",
+"example": "Il veut vendre sa voiture.",
+"see_also": [],
+"pronunciation": "[vahn-druh]"
+},
+{
+"word": "Chercher",
+"level": "A2",
+"definition": "to look for (искать)",
+"example": "Je cherche mes clés.",
+"see_also": [],
+"pronunciation": "[shehr-shay]"
+},
+{
+"word": "Trouver",
+"level": "A2",
+"definition": "to find (находить)",
+"example": "J'ai trouvé une solution.",
+"see_also": [],
+"pronunciation": "[troo-vay]"
+},
+{
+"word": "Choisir",
+"level": "A2",
+"definition": "to choose (выбирать)",
+"example": "Tu dois choisir une couleur.",
+"see_also": [],
+"pronunciation": "[shwah-zeer]"
+},
+{
+"word": "Décider",
+"level": "A2",
+"definition": "to decide (решать)",
+"example": "Nous devons décider rapidement.",
+"see_also": [],
+"pronunciation": "[day-see-day]"
+},
+{
+"word": "Essayer",
+"level": "A2",
+"definition": "to try (пробовать)",
+"example": "Je veux essayer cette chemise.",
+"see_also": [],
+"pronunciation": "[ay-seh-yay]"
+},
+{
+"word": "Oublier",
+"level": "A2",
+"definition": "to forget (забывать)",
+"example": "N'oublie pas ton parapluie.",
+"see_also": [],
+"pronunciation": "[oo-blee-ay]"
+},
+{
+"word": "Apprendre",
+"level": "A2",
+"definition": "to learn (учить, изучать)",
+"example": "J'apprends le français tous les jours.",
+"see_also": [],
+"pronunciation": "[ah-prahn-druh]"
+},
+{
+"word": "Comprendre",
+"level": "A2",
+"definition": "to understand (понимать)",
+"example": "Je comprends la question.",
+"see_also": [],
+"pronunciation": "[kohm-prahn-druh]"
+},
+{
+"word": "Répondre",
+"level": "A2",
+"definition": "to answer (отвечать)",
+"example": "Il ne veut pas répondre.",
+"see_also": [],
+"pronunciation": "[ray-pohn-druh]"
+},
+{
+"word": "Attendre",
+"level": "A2",
+"definition": "to wait (ждать)",
+"example": "Je vais t'attendre ici.",
+"see_also": [],
+"pronunciation": "[ah-tahn-druh]"
+},
+{
+"word": "Entendre",
+"level": "A2",
+"definition": "to hear (слышать)",
+"example": "J'entends un bruit mystérieux.",
+"see_also": [],
+"pronunciation": "[ahn-tahn-druh]"
+},
+{
+"word": "Connaître",
+"level": "A2",
+"definition": "to know (someone/place) (знать кого-то/место)",
+"example": "Je connais ce restaurant.",
+"see_also": [],
+"pronunciation": "[ko-neh-truh]"
+},
+{
+"word": "Savoir",
+"level": "A2",
+"definition": "to know (a fact) (знать факт)",
+"example": "Je sais où il habite.",
+"see_also": [],
+"pronunciation": "[sah-vwahr]"
+},
+{
+"word": "Venir",
+"level": "A2",
+"definition": "to come (приходить)",
+"example": "Il va venir demain matin.",
+"see_also": [],
+"pronunciation": "[vuh-neer]"
+},
+{
+"word": "Devenir",
+"level": "A2",
+"definition": "to become (становиться)",
+"example": "Elle veut devenir médecin.",
+"see_also": [],
+"pronunciation": "[duh-vuh-neer]"
+},
+{
+"word": "Rentrer",
+"level": "A2",
+"definition": "to go home / return (возвращаться домой)",
+"example": "Il est temps de rentrer.",
+"see_also": [],
+"pronunciation": "[rahn-tray]"
+},
+{
+"word": "Sortir",
+"level": "A2",
+"definition": "to go out (выходить)",
+"example": "Nous allons sortir ce soir.",
+"see_also": [],
+"pronunciation": "[sor-teer]"
+},
+{
+"word": "Partir",
+"level": "A2",
+"definition": "to leave (уходить, уезжать)",
+"example": "Ils vont partir en vacances.",
+"see_also": [],
+"pronunciation": "[par-teer]"
+},
+{
+"word": "Voyage",
+"level": "A2",
+"definition": "trip (путешествие)",
+"example": "C'était un voyage fantastique.",
+"see_also": [],
+"pronunciation": "[vwah-yahzh]"
+},
+{
+"word": "Billet",
+"level": "A2",
+"definition": "ticket (билет)",
+"example": "J'ai acheté un billet de train.",
+"see_also": [],
+"pronunciation": "[bee-yeh]"
+},
+{
+"word": "Gare",
+"level": "A2",
+"definition": "train station (вокзал)",
+"example": "Nous sommes arrivés à la gare.",
+"see_also": [],
+"pronunciation": "[gar]"
+},
+{
+"word": "Aéroport",
+"level": "A2",
+"definition": "airport (аэропорт)",
+"example": "L'aéroport est très grand.",
+"see_also": [],
+"pronunciation": "[ah-ay-ro-por]"
+},
+{
+"word": "Valise",
+"level": "A2",
+"definition": "suitcase (чемодан)",
+"example": "Ma valise est trop lourde.",
+"see_also": [],
+"pronunciation": "[vah-leez]"
+},
+{
+"word": "Chaussure",
+"level": "A2",
+"definition": "shoe (обувь)",
+"example": "Où est ma chaussure gauche ?",
+"see_also": [],
+"pronunciation": "[shoh-syur]"
+},
+{
+"word": "Vêtement",
+"level": "A2",
+"definition": "clothes (одежда)",
+"example": "Je dois laver mes vêtements.",
+"see_also": [],
+"pronunciation": "[veht-mahn]"
+},
+{
+"word": "Argent",
+"level": "A2",
+"definition": "money (деньги)",
+"example": "Je n'ai pas d'argent sur moi.",
+"see_also": [],
+"pronunciation": "[ar-zhahn]"
+},
+{
+"word": "Banque",
+"level": "A2",
+"definition": "bank (банк)",
+"example": "La banque est fermée aujourd'hui.",
+"see_also": [],
+"pronunciation": "[bahnk]"
+},
+{
+"word": "Magasin",
+"level": "A2",
+"definition": "store (магазин)",
+"example": "Le magasin ouvre à 9 heures.",
+"see_also": [],
+"pronunciation": "[mah-gah-zan]"
+},
+{
+"word": "Prix",
+"level": "A2",
+"definition": "price (цена)",
+"example": "Le prix est trop élevé.",
+"see_also": [],
+"pronunciation": "[pree]"
+},
+{
+"word": "Cher",
+"level": "A2",
+"definition": "expensive (дорогой)",
+"example": "Ce bijou est très cher.",
+"see_also": [],
+"pronunciation": "[shehr]"
+},
+{
+"word": "Facile",
+"level": "A2",
+"definition": "easy (лёгкий)",
+"example": "L'examen était facile.",
+"see_also": [],
+"pronunciation": "[fah-seel]"
+},
+{
+"word": "Difficile",
+"level": "A2",
+"definition": "difficult (трудный)",
+"example": "C'est difficile à expliquer.",
+"see_also": [],
+"pronunciation": "[dee-fee-seel]"
+},
+{
+"word": "Heureux",
+"level": "A2",
+"definition": "happy (счастливый)",
+"example": "Je suis heureux de te voir.",
+"see_also": [],
+"pronunciation": "[uh-ruh]"
+},
+{
+"word": "Triste",
+"level": "A2",
+"definition": "sad (грустный)",
+"example": "Pourquoi es-tu si triste ?",
+"see_also": [],
+"pronunciation": "[treest]"
+},
+{
+"word": "Fatigué",
+"level": "A2",
+"definition": "tired (уставший)",
+"example": "Je suis vraiment fatigué ce soir.",
+"see_also": [],
+"pronunciation": "[fah-tee-gay]"
+},
+{
+"word": "Malade",
+"level": "A2",
+"definition": "sick (больной)",
+"example": "Il ne vient pas parce qu'il est malade.",
+"see_also": [],
+"pronunciation": "[mah-lahd]"
+},
+{
+"word": "Médecin",
+"level": "A2",
+"definition": "doctor (врач)",
+"example": "Tu devrais voir un médecin.",
+"see_also": [],
+"pronunciation": "[mayd-san]"
+},
+{
+"word": "Hôpital",
+"level": "A2",
+"definition": "hospital (больница)",
+"example": "L'hôpital est près d'ici.",
+"see_also": [],
+"pronunciation": "[oh-pee-tahl]"
+},
+{
+"word": "Santé",
+"level": "A2",
+"definition": "health (здоровье)",
+"example": "La santé est la chose la plus importante.",
+"see_also": [],
+"pronunciation": "[sahn-tay]"
+},
+{
+"word": "Ville",
+"level": "A2",
+"definition": "city (город)",
+"example": "Paris est une grande ville.",
+"see_also": [],
+"pronunciation": "[veel]"
+},
+{
+"word": "Rue",
+"level": "A2",
+"definition": "street (улица)",
+"example": "Il habite dans cette rue.",
+"see_also": [],
+"pronunciation": "[ryu]"
+},
+{
+"word": "Bâtiment",
+"level": "A2",
+"definition": "building (здание)",
+"example": "Le bâtiment est très moderne.",
+"see_also": [],
+"pronunciation": "[bah-tee-mahn]"
+},
+{
+"word": "Chambre",
+"level": "A2",
+"definition": "room / bedroom (комната / спальня)",
+"example": "Ma chambre est au premier étage.",
+"see_also": [],
+"pronunciation": "[shahm-bruh]"
+},
+{
+"word": "Lit",
+"level": "A2",
+"definition": "bed (кровать)",
+"example": "Le lit est très confortable.",
+"see_also": [],
+"pronunciation": "[lee]"
+},
+{
+"word": "Fenêtre",
+"level": "A2",
+"definition": "window (окно)",
+"example": "S'il te plaît, ferme la fenêtre.",
+"see_also": [],
+"pronunciation": "[fuh-neh-truh]"
+},
+{
+"word": "Porte",
+"level": "A2",
+"definition": "door (дверь)",
+"example": "Quelqu'un a frappé à la porte.",
+"see_also": [],
+"pronunciation": "[port]"
+},
+{
+"word": "Table",
+"level": "A2",
+"definition": "table (стол)",
+"example": "Le livre est sur la table.",
+"see_also": [],
+"pronunciation": "[tah-bluh]"
+},
+{
+"word": "Chaise",
+"level": "A2",
+"definition": "chair (стул)",
+"example": "Asseyez-vous sur cette chaise.",
+"see_also": [],
+"pronunciation": "[shehz]"
+},
+{
+"word": "Améliorer",
+"level": "B1",
+"definition": "to improve (улучшать)",
+"example": "Je veux améliorer mon accent.",
+"see_also": [],
+"pronunciation": "[ah-may-lyo-ray]"
+},
+{
+"word": "Découvrir",
+"level": "B1",
+"definition": "to discover (открывать, обнаруживать)",
+"example": "Nous avons découvert un nouveau café.",
+"see_also": [],
+"pronunciation": "[day-koo-vreer]"
+},
+{
+"word": "Partager",
+"level": "B1",
+"definition": "to share (делиться)",
+"example": "Merci de partager cette information.",
+"see_also": [],
+"pronunciation": "[par-tah-zhay]"
+},
+{
+"word": "Proposer",
+"level": "B1",
+"definition": "to suggest / propose (предлагать)",
+"example": "Que proposes-tu pour le dîner ?",
+"see_also": [],
+"pronunciation": "[pro-po-zay]"
+},
+{
+"word": "Accepter",
+"level": "B1",
+"definition": "to accept (принимать)",
+"example": "J'accepte votre offre.",
+"see_also": [],
+"pronunciation": "[ahk-sep-tay]"
+},
+{
+"word": "Refuser",
+"level": "B1",
+"definition": "to refuse (отказывать)",
+"example": "Il a refusé de m'aider.",
+"see_also": [],
+"pronunciation": "[ruh-fyu-zay]"
+},
+{
+"word": "Remercier",
+"level": "B1",
+"definition": "to thank (благодарить)",
+"example": "Je tiens à vous remercier.",
+"see_also": [],
+"pronunciation": "[ruh-mehr-syee-ay]"
+},
+{
+"word": "Respecter",
+"level": "B1",
+"definition": "to respect (уважать)",
+"example": "Il faut respecter les règles.",
+"see_also": [],
+"pronunciation": "[reh-spek-tay]"
+},
+{
+"word": "Utiliser",
+"level": "B1",
+"definition": "to use (использовать)",
+"example": "Comment utiliser cet appareil ?",
+"see_also": [],
+"pronunciation": "[oo-tee-lee-zay]"
+},
+{
+"word": "Ajouter",
+"level": "B1",
+"definition": "to add (добавлять)",
+"example": "Tu peux ajouter un peu de sel.",
+"see_also": [],
+"pronunciation": "[ah-zhoo-tay]"
+},
+{
+"word": "Vérifier",
+"level": "B1",
+"definition": "to check / verify (проверять)",
+"example": "Je dois vérifier mes e-mails.",
+"see_also": [],
+"pronunciation": "[vay-ree-fyay]"
+},
+{
+"word": "Expliquer",
+"level": "B1",
+"definition": "to explain (объяснять)",
+"example": "Peux-tu m'expliquer cela encore une fois ?",
+"see_also": [],
+"pronunciation": "[eks-plee-kay]"
+},
+{
+"word": "S'adapter",
+"level": "B1",
+"definition": "to adapt oneself (приспосабливаться)",
+"example": "Il est important de s'adapter au changement.",
+"see_also": [],
+"pronunciation": "[sah-dahp-tay]"
+},
+{
+"word": "Se souvenir",
+"level": "B1",
+"definition": "to remember (вспоминать)",
+"example": "Je ne me souviens pas de son nom.",
+"see_also": [],
+"pronunciation": "[suh soov-neer]"
+},
+{
+"word": "Se dépêcher",
+"level": "B1",
+"definition": "to hurry (торопиться)",
+"example": "Nous devons nous dépêcher !",
+"see_also": [],
+"pronunciation": "[suh day-peh-shay]"
+},
+{
+"word": "S'habituer",
+"level": "B1",
+"definition": "to get used to (привыкать)",
+"example": "Je m'habitue à ma nouvelle vie.",
+"see_also": [],
+"pronunciation": "[sah-bee-tyu-ay]"
+},
+{
+"word": "Se plaindre",
+"level": "B1",
+"definition": "to complain (жаловаться)",
+"example": "Elle se plaint tout le temps.",
+"see_also": [],
+"pronunciation": "[suh plahnd-ruh]"
+},
+{
+"word": "Réussir",
+"level": "B1",
+"definition": "to succeed (удаваться, преуспевать)",
+"example": "Il a réussi son examen avec brio.",
+"see_also": [],
+"pronunciation": "[ray-yu-seer]"
+},
+{
+"word": "Échouer",
+"level": "B1",
+"definition": "to fail (провалиться)",
+"example": "Il est possible d'échouer la première fois.",
+"see_also": [],
+"pronunciation": "[ay-shway]"
+},
+{
+"word": "Protéger",
+"level": "B1",
+"definition": "to protect (защищать)",
+"example": "Nous devons protéger l'environnement.",
+"see_also": [],
+"pronunciation": "[pro-tay-zhay]"
+},
+{
+"word": "Polluer",
+"level": "B1",
+"definition": "to pollute (загрязнять)",
+"example": "Ces usines polluent la rivière.",
+"see_also": [],
+"pronunciation": "[po-lyu-ay]"
+},
+{
+"word": "Environnement",
+"level": "B1",
+"definition": "environment (окружающая среда)",
+"example": "La protection de l'environnement est cruciale.",
+"see_also": [],
+"pronunciation": "[ahn-vee-ron-mahn]"
+},
+{
+"word": "Entreprise",
+"level": "B1",
+"definition": "company (компания, предприятие)",
+"example": "Mon entreprise recrute de nouveaux employés.",
+"see_also": [],
+"pronunciation": "[ahn-truh-preez]"
+},
+{
+"word": "Emploi",
+"level": "B1",
+"definition": "job (работа, занятость)",
+"example": "Je cherche un nouvel emploi.",
+"see_also": [],
+"pronunciation": "[ahm-plwah]"
+},
+{
+"word": "Chômage",
+"level": "B1",
+"definition": "unemployment (безработица)",
+"example": "Le taux de chômage a baissé cette année.",
+"see_also": [],
+"pronunciation": "[shoh-mahzh]"
+},
+{
+"word": "Salaire",
+"level": "B1",
+"definition": "salary (зарплата)",
+"example": "Son salaire est très élevé.",
+"see_also": [],
+"pronunciation": "[sah-lehr]"
+},
+{
+"word": "Économie",
+"level": "B1",
+"definition": "economy / savings (экономика / сбережения)",
+"example": "L'économie mondiale est en crise.",
+"see_also": [],
+"pronunciation": "[ay-ko-no-mee]"
+},
+{
+"word": "Loi",
+"level": "B1",
+"definition": "law (закон)",
+"example": "La nouvelle loi entre en vigueur demain.",
+"see_also": [],
+"pronunciation": "[lwah]"
+},
+{
+"word": "Gouvernement",
+"level": "B1",
+"definition": "government (правительство)",
+"example": "Le gouvernement a annoncé de nouvelles mesures.",
+"see_also": [],
+"pronunciation": "[goo-vehr-nuh-mahn]"
+},
+{
+"word": "Société",
+"level": "B1",
+"definition": "society (общество)",
+"example": "La société moderne évolue rapidement.",
+"see_also": [],
+"pronunciation": "[so-syay-tay]"
+},
+{
+"word": "Culture",
+"level": "B1",
+"definition": "culture (культура)",
+"example": "La culture française est riche.",
+"see_also": [],
+"pronunciation": "[kyul-tyur]"
+},
+{
+"word": "Histoire",
+"level": "B1",
+"definition": "history (история)",
+"example": "J'adore lire des livres d'histoire.",
+"see_also": [],
+"pronunciation": "[ees-twahr]"
+},
+{
+"word": "Science",
+"level": "B1",
+"definition": "science (наука)",
+"example": "Les progrès de la science sont incroyables.",
+"see_also": [],
+"pronunciation": "[syahns]"
+},
+{
+"word": "Technologie",
+"level": "B1",
+"definition": "technology (технология)",
+"example": "La technologie simplifie notre quotidien.",
+"see_also": [],
+"pronunciation": "[tek-no-lo-zhee]"
+},
+{
+"word": "Réseau",
+"level": "B1",
+"definition": "network (сеть)",
+"example": "Le réseau internet est lent ce matin.",
+"see_also": [],
+"pronunciation": "[ray-zoh]"
+},
+{
+"word": "Ordinateur",
+"level": "B1",
+"definition": "computer (компьютер)",
+"example": "Mon ordinateur a besoin d'une mise à jour.",
+"see_also": [],
+"pronunciation": "[or-dee-nah-tuhr]"
+},
+{
+"word": "Logiciel",
+"level": "B1",
+"definition": "software (программное обеспечение)",
+"example": "Ce logiciel est très facile à utiliser.",
+"see_also": [],
+"pronunciation": "[lo-zhee-syel]"
+},
+{
+"word": "Écran",
+"level": "B1",
+"definition": "screen (экран)",
+"example": "L'écran de mon téléphone est cassé.",
+"see_also": [],
+"pronunciation": "[ay-krahn]"
+},
+{
+"word": "Clavier",
+"level": "B1",
+"definition": "keyboard (клавиатура)",
+"example": "Il manque une touche sur mon clavier.",
+"see_also": [],
+"pronunciation": "[klah-vyay]"
+},
+{
+"word": "Souris",
+"level": "B1",
+"definition": "mouse (мышь)",
+"example": "J'ai acheté une nouvelle souris sans fil.",
+"see_also": [],
+"pronunciation": "[soo-ree]"
+},
+{
+"word": "Avantage",
+"level": "B1",
+"definition": "advantage (преимущество)",
+"example": "Quel est l'avantage de cette méthode ?",
+"see_also": [],
+"pronunciation": "[ah-vahn-tahzh]"
+},
+{
+"word": "Inconvénient",
+"level": "B1",
+"definition": "disadvantage (недостаток)",
+"example": "Le seul inconvénient est le prix.",
+"see_also": [],
+"pronunciation": "[ahn-kohn-vay-nyahn]"
+},
+{
+"word": "Opinion",
+"level": "B1",
+"definition": "opinion (мнение)",
+"example": "Donne-moi ton opinion sur ce sujet.",
+"see_also": [],
+"pronunciation": "[o-pee-nyohn]"
+},
+{
+"word": "Expérience",
+"level": "B1",
+"definition": "experience (опыт)",
+"example": "C'est une expérience inoubliable.",
+"see_also": [],
+"pronunciation": "[eks-pay-ryahns]"
+},
+{
+"word": "Développement",
+"level": "B1",
+"definition": "development (развитие)",
+"example": "Le développement personnel est important.",
+"see_also": [],
+"pronunciation": "[day-vuh-lop-mahn]"
+},
+{
+"word": "Projet",
+"level": "B1",
+"definition": "project (проект)",
+"example": "Notre projet avance bien.",
+"see_also": [],
+"pronunciation": "[pʁɔ.ʒɛ]"
+},
+{
+"word": "Réunion",
+"level": "B1",
+"definition": "meeting (встреча, собрание)",
+"example": "La réunion commence à 10 heures.",
+"see_also": [],
+"pronunciation": "[ʁe.y.njɔ̃]"
+},
+{
+"word": "Objectif",
+"level": "B1",
+"definition": "objective / goal (цель)",
+"example": "Mon objectif est d'atteindre le niveau c1.",
+"see_also": [],
+"pronunciation": "[ɔb.ʒɛk.tif]"
+},
+{
+"word": "Résultat",
+"level": "B1",
+"definition": "result (результат)",
+"example": "Le résultat est très satisfaisant.",
+"see_also": [],
+"pronunciation": "[ʁe.zyl.ta]"
+},
+{
+"word": "Solution",
+"level": "B1",
+"definition": "solution (решение)",
+"example": "Nous trouverons une bonne solution.",
+"see_also": [],
+"pronunciation": "[sɔ.ly.sjɔ̃]"
+},
+{
+"word": "Approfondir",
+"level": "B2",
+"definition": "to deepen (углублять)",
+"example": "Nous allons approfondir ce sujet.",
+"see_also": [],
+"pronunciation": "[a.pʁɔ.fɔ̃.diʁ]"
+},
+{
+"word": "Convaincre",
+"level": "B2",
+"definition": "to convince (убеждать)",
+"example": "Elle a réussi à le convaincre.",
+"see_also": [],
+"pronunciation": "[kɔ̃.vɛ̃kʁ]"
+},
+{
+"word": "Persuader",
+"level": "B2",
+"definition": "to persuade (уговаривать)",
+"example": "Il essaie de me persuader de venir.",
+"see_also": [],
+"pronunciation": "[pɛʁ.sɥa.de]"
+},
+{
+"word": "Négocier",
+"level": "B2",
+"definition": "to negotiate (вести переговоры)",
+"example": "Ils doivent négocier les termes du contrat.",
+"see_also": [],
+"pronunciation": "[ne.ɡɔ.sje]"
+},
+{
+"word": "Soupçonner",
+"level": "B2",
+"definition": "to suspect (подозревать)",
+"example": "La police le soupçonne de vol.",
+"see_also": [],
+"pronunciation": "[sup.sɔ.ne]"
+},
+{
+"word": "Envisager",
+"level": "B2",
+"definition": "to consider / envision (рассматривать, предусматривать)",
+"example": "J'envisage de changer de carrière.",
+"see_also": [],
+"pronunciation": "[ɑ̃.vi.za.ʒe]"
+},
+{
+"word": "Soutenir",
+"level": "B2",
+"definition": "to support (поддерживать)",
+"example": "Je soutiens ton initiative.",
+"see_also": [],
+"pronunciation": "[su.tə.niʁ]"
+},
+{
+"word": "Revendiquer",
+"level": "B2",
+"definition": "to claim / demand (требовать, заявлять)",
+"example": "Les travailleurs revendiquent une hausse des salaires.",
+"see_also": [],
+"pronunciation": "[ʁə.vɑ̃.di.ke]"
+},
+{
+"word": "S'investir",
+"level": "B2",
+"definition": "to get involved / invest oneself (вкладываться)",
+"example": "Il s'investit beaucoup dans son travail.",
+"see_also": [],
+"pronunciation": "[sɛ̃.vɛs.tiʁ]"
+},
+{
+"word": "Gérer",
+"level": "B2",
+"definition": "to manage (управлять)",
+"example": "Elle sait parfaitement gérer une équipe.",
+"see_also": [],
+"pronunciation": "[ʒe.ʁe]"
+},
+{
+"word": "Exiger",
+"level": "B2",
+"definition": "to require / demand (требовать)",
+"example": "Cette situation exige toute notre attention.",
+"see_also": [],
+"pronunciation": "[ɛɡ.zi.ʒe]"
+},
+{
+"word": "Renforcer",
+"level": "B2",
+"definition": "to strengthen (укреплять)",
+"example": "Nous devons renforcer la sécurité.",
+"see_also": [],
+"pronunciation": "[ʁɑ̃.fɔʁ.se]"
+},
+{
+"word": "Décevoir",
+"level": "B2",
+"definition": "to disappoint (разочаровывать)",
+"example": "Le film m'a beaucoup déçu.",
+"see_also": [],
+"pronunciation": "[de.sə.vwaʁ]"
+},
+{
+"word": "Surprendre",
+"level": "B2",
+"definition": "to surprise (удивлять)",
+"example": "Sa réaction m'a totalement surprise.",
+"see_also": [],
+"pronunciation": "[syʁ.pʁɑ̃dʁ]"
+},
+{
+"word": "Valoriser",
+"level": "B2",
+"definition": "to value / promote (ценить, повышать ценность)",
+"example": "Il est important de valoriser les compétences de chacun.",
+"see_also": [],
+"pronunciation": "[va.lɔ.ʁi.ze]"
+},
+{
+"word": "Débattre",
+"level": "B2",
+"definition": "to debate (обсуждать, дебатировать)",
+"example": "Ils aiment débattre de la politique.",
+"see_also": [],
+"pronunciation": "[de.batʁ]"
+},
+{
+"word": "Critiquer",
+"level": "B2",
+"definition": "to criticize (критиковать)",
+"example": "Il est facile de critiquer les autres.",
+"see_also": [],
+"pronunciation": "[kʁi.ti.ke]"
+},
+{
+"word": "Justifier",
+"level": "B2",
+"definition": "to justify (оправдывать)",
+"example": "Tu dois justifier ton retard.",
+"see_also": [],
+"pronunciation": "[ʒys.ti.fje]"
+},
+{
+"word": "Fournir",
+"level": "B2",
+"definition": "to provide (предоставлять)",
+"example": "Ils doivent fournir des preuves.",
+"see_also": [],
+"pronunciation": "[fuʁ.niʁ]"
+},
+{
+"word": "Démontrer",
+"level": "B2",
+"definition": "to demonstrate (демонстрировать, доказывать)",
+"example": "L'étude démontre l'efficacité du vaccin.",
+"see_also": [],
+"pronunciation": "[de.mɔ̃.tʁe]"
+},
+{
+"word": "Pertinent",
+"level": "B2",
+"definition": "relevant (уместный, релевантный)",
+"example": "Votre remarque est très pertinente.",
+"see_also": [],
+"pronunciation": "[pɛʁ.ti.nɑ̃]"
+},
+{
+"word": "Ambigu",
+"level": "B2",
+"definition": "ambiguous (двусмысленный)",
+"example": "Sa réponse était un peu ambiguë.",
+"see_also": [],
+"pronunciation": "[ɑ̃.bi.ɡy]"
+},
+{
+"word": "Complexe",
+"level": "B2",
+"definition": "complex (сложный)",
+"example": "C'est un problème extrêmement complexe.",
+"see_also": [],
+"pronunciation": "[kɔ̃.plɛks]"
+},
+{
+"word": "Paradoxal",
+"level": "B2",
+"definition": "paradoxical (парадоксальный)",
+"example": "Il est paradoxal de vouloir la paix par la guerre.",
+"see_also": [],
+"pronunciation": "[pa.ʁa.dɔk.sal]"
+},
+{
+"word": "Indispensable",
+"level": "B2",
+"definition": "indispensable / essential (необходимый)",
+"example": "L'eau est indispensable à la vie.",
+"see_also": [],
+"pronunciation": "[ɛ̃.dis.pɑ̃.sabl]"
+},
+{
+"word": "Aléatoire",
+"level": "B2",
+"definition": "random (случайный)",
+"example": "Le résultat a été choisi de façon aléatoire.",
+"see_also": [],
+"pronunciation": "[a.le.a.twaʁ]"
+},
+{
+"word": "Simultané",
+"level": "B2",
+"definition": "simultaneous (одновременный)",
+"example": "Il y a eu deux attaques simultanées.",
+"see_also": [],
+"pronunciation": "[si.myl.ta.ne]"
+},
+{
+"word": "Délibéré",
+"level": "B2",
+"definition": "deliberate (преднамеренный)",
+"example": "C'était un acte délibéré de sa part.",
+"see_also": [],
+"pronunciation": "[de.li.be.ʁe]"
+},
+{
+"word": "Implicite",
+"level": "B2",
+"definition": "implicit (подразумеваемый)",
+"example": "Son approbation était implicite.",
+"see_also": [],
+"pronunciation": "[ɛ̃.pli.sit]"
+},
+{
+"word": "Explicite",
+"level": "B2",
+"definition": "explicit (явный)",
+"example": "Vous devez donner des consignes explicites.",
+"see_also": [],
+"pronunciation": "[ɛks.pli.sit]"
+},
+{
+"word": "Polémique",
+"level": "B2",
+"definition": "controversy (полемика, спор)",
+"example": "Ce sujet suscite toujours la polémique.",
+"see_also": [],
+"pronunciation": "[pɔ.le.mik]"
+},
+{
+"word": "Nuance",
+"level": "B2",
+"definition": "nuance (нюанс, оттенок)",
+"example": "Il y a une nuance très subtile entre les deux mots.",
+"see_also": [],
+"pronunciation": "[ny.ɑ̃s]"
+},
+{
+"word": "Consensus",
+"level": "B2",
+"definition": "consensus (консенсус, согласие)",
+"example": "Ils sont finalement parvenus à un consensus.",
+"see_also": [],
+"pronunciation": "[kɔ̃.sɛ̃.sys]"
+},
+{
+"word": "Priorité",
+"level": "B2",
+"definition": "priority (приоритет)",
+"example": "L'éducation doit être notre priorité.",
+"see_also": [],
+"pronunciation": "[pʁi.jɔ.ʁi.te]"
+},
+{
+"word": "Contrainte",
+"level": "B2",
+"definition": "constraint (ограничение)",
+"example": "Nous devons travailler avec ces contraintes.",
+"see_also": [],
+"pronunciation": "[kɔ̃.tʁɛ̃t]"
+},
+{
+"word": "Compromis",
+"level": "B2",
+"definition": "compromise (компромисс)",
+"example": "Il a fallu trouver un compromis.",
+"see_also": [],
+"pronunciation": "[kɔ̃.pʁɔ.mi]"
+},
+{
+"word": "Préjugé",
+"level": "B2",
+"definition": "prejudice (предрассудок)",
+"example": "Il faut lutter contre les préjugés.",
+"see_also": [],
+"pronunciation": "[pʁe.ʒy.ʒe]"
+},
+{
+"word": "Stéréotype",
+"level": "B2",
+"definition": "stereotype (стереотип)",
+"example": "C'est le stéréotype classique de l'artiste.",
+"see_also": [],
+"pronunciation": "[ste.ʁe.ɔ.tip]"
+},
+{
+"word": "Bénéfice",
+"level": "B2",
+"definition": "benefit / profit (выгода / прибыль)",
+"example": "L'entreprise a fait beaucoup de bénéfices.",
+"see_also": [],
+"pronunciation": "[be.ne.fis]"
+},
+{
+"word": "Impact",
+"level": "B2",
+"definition": "impact (воздействие, влияние)",
+"example": "L'impact économique sera considérable.",
+"see_also": [],
+"pronunciation": "[ɛ̃.pakt]"
+},
+{
+"word": "Hypothèse",
+"level": "B2",
+"definition": "hypothesis (гипотеза)",
+"example": "Nous étudions une nouvelle hypothèse.",
+"see_also": [],
+"pronunciation": "[i.pɔ.tɛz]"
+},
+{
+"word": "Enjeu",
+"level": "B2",
+"definition": "issue / stake (ставка, вызов)",
+"example": "L'enjeu climatique est le grand défi de notre siècle.",
+"see_also": [],
+"pronunciation": "[ɑ̃.ʒø]"
+},
+{
+"word": "Perspectives",
+"level": "B2",
+"definition": "prospects (перспективы)",
+"example": "Les perspectives d'avenir sont bonnes.",
+"see_also": [],
+"pronunciation": "[pɛʁs.pɛk.tiv]"
+},
+{
+"word": "Ressources",
+"level": "B2",
+"definition": "resources (ресурсы)",
+"example": "Le pays manque de ressources naturelles.",
+"see_also": [],
+"pronunciation": "[ʁə.suʁs]"
+},
+{
+"word": "Efficacité",
+"level": "B2",
+"definition": "efficiency (эффективность)",
+"example": "Son efficacité au travail est impressionnante.",
+"see_also": [],
+"pronunciation": "[e.fi.ka.si.te]"
+},
+{
+"word": "Fiabilité",
+"level": "B2",
+"definition": "reliability (надёжность)",
+"example": "La fiabilité de cette machine est garantie.",
+"see_also": [],
+"pronunciation": "[fja.bi.li.te]"
+},
+{
+"word": "Compétence",
+"level": "B2",
+"definition": "skill / competence (компетенция, навык)",
+"example": "Il possède de grandes compétences techniques.",
+"see_also": [],
+"pronunciation": "[kɔ̃.pe.tɑ̃s]"
+},
+{
+"word": "Démarche",
+"level": "B2",
+"definition": "approach / process (подход, процедура)",
+"example": "C'est une démarche très innovante.",
+"see_also": [],
+"pronunciation": "[de.maʁʃ]"
+},
+{
+"word": "Dispositif",
+"level": "B2",
+"definition": "device / feature (устройство, механизм)",
+"example": "Le dispositif de sécurité a été renforcé.",
+"see_also": [],
+"pronunciation": "[dis.pɔ.zi.tif]"
+},
+{
+"word": "Stratégie",
+"level": "B2",
+"definition": "strategy (стратегия)",
+"example": "Leur strategy marketing a fonctionné.",
+"see_also": [],
+"pronunciation": "[stʁa.te.ʒi]"
+},
+{
+"word": "Aborder",
+"level": "C1",
+"definition": "to tackle / approach (браться за, подходить к)",
+"example": "Comment allez-vous aborder ce problème complexe ?",
+"see_also": [],
+"pronunciation": "[a.bɔʁ.de]"
+},
+{
+"word": "Pallier",
+"level": "C1",
+"definition": "to mitigate / overcome (сглаживать, компенсировать)",
+"example": "Nous devons pallier le manque de personnel.",
+"see_also": [],
+"pronunciation": "[pa.lje]"
+},
+{
+"word": "Susciter",
+"level": "C1",
+"definition": "to arouse / provoke (вызывать, порождать)",
+"example": "Ce discours a suscité de vives réactions.",
+"see_also": [],
+"pronunciation": "[sy.si.te]"
+},
+{
+"word": "Déceler",
+"level": "C1",
+"definition": "to detect / perceive (выявлять, обнаруживать)",
+"example": "Il est difficile de déceler ses intentions.",
+"see_also": [],
+"pronunciation": "[de.sle]"
+},
+{
+"word": "Atténuer",
+"level": "C1",
+"definition": "to alleviate / soften (смягчать, ослаблять)",
+"example": "Ce médicament permet d'atténuer la douleur.",
+"see_also": [],
+"pronunciation": "[a.te.ny.e]"
+},
+{
+"word": "Inculquer",
+"level": "C1",
+"definition": "to instill (прививать, внушать)",
+"example": "On doit inculquer de bonnes valeurs aux enfants.",
+"see_also": [],
+"pronunciation": "[ɛ̃.kyl.ke]"
+},
+{
+"word": "Fustiger",
+"level": "C1",
+"definition": "to castigate / blast (бичевать, резко критиковать)",
+"example": "La presse a fustigé les actions du ministre.",
+"see_also": [],
+"pronunciation": "[fys.ti.ʒe]"
+},
+{
+"word": "Octroyer",
+"level": "C1",
+"definition": "to grant (предоставлять, даровать)",
+"example": "La banque lui a octroyé un prêt conséquent.",
+"see_also": [],
+"pronunciation": "[ɔk.tʁwa.je]"
+},
+{
+"word": "Plébisciter",
+"level": "C1",
+"definition": "to vote for overwhelmingly / endorse (голосовать большинством, поддерживать)",
+"example": "Le projet a été plébiscité par l'ensemble des citoyens.",
+"see_also": [],
+"pronunciation": "[ple.bi.si.te]"
+},
+{
+"word": "Pérenniser",
+"level": "C1",
+"definition": "to make permanent / sustain (увековечивать, делать долгосрочным)",
+"example": "Il faut pérenniser ce modèle de développement.",
+"see_also": [],
+"pronunciation": "[pe.ʁɛ.ni.ze]"
+},
+{
+"word": "Dénigrer",
+"level": "C1",
+"definition": "to denigrate (порочить, чернить)",
+"example": "Elle passe son temps à dénigrer le travail des autres.",
+"see_also": [],
+"pronunciation": "[de.ni.ɡʁe]"
+},
+{
+"word": "Exacerber",
+"level": "C1",
+"definition": "to exacerbate (оборстрять, усиливать)",
+"example": "Ces mesures ne font qu'exacerber les tensions sociales.",
+"see_also": [],
+"pronunciation": "[ɛɡ.za.sɛʁ.be]"
+},
+{
+"word": "Révoquer",
+"level": "C1",
+"definition": "to revoke / dismiss (аннулировать, отстранять)",
+"example": "Le directeur a été révoqué pour faute grave.",
+"see_also": [],
+"pronunciation": "[ʁe.vɔ.ke]"
+},
+{
+"word": "Entraver",
+"level": "C1",
+"definition": "to hinder / hamper (препятствовать, затруднять)",
+"example": "Le manque de financement entrave la recherche.",
+"see_also": [],
+"pronunciation": "[ɑ̃.tʁa.ve]"
+},
+{
+"word": "Contourner",
+"level": "C1",
+"definition": "to bypass (обходить)",
+"example": "Ils ont réussi à contourner les restrictions légales.",
+"see_also": [],
+"pronunciation": "[kɔ̃.tuʁ.ne]"
+},
+{
+"word": "Réhabiliter",
+"level": "C1",
+"definition": "to rehabilitate (восстанавливать, реабилитировать)",
+"example": "On a décidé de réhabiliter ce quartier historique.",
+"see_also": [],
+"pronunciation": "[ʁe.a.bi.li.te]"
+},
+{
+"word": "Assimiler",
+"level": "C1",
+"definition": "to assimilate (усваивать, ассимилировать)",
+"example": "Il lui faut du temps pour assimiler toutes ces connaissances.",
+"see_also": [],
+"pronunciation": "[a.si.mi.le]"
+},
+{
+"word": "Impartir",
+"level": "C1",
+"definition": "to allot / impart (уделять, предоставлять время)",
+"example": "Le temps imparti pour l'examen est de deux heures.",
+"see_also": [],
+"pronunciation": "[ɛ̃.paʁ.tiʁ]"
+},
+{
+"word": "Réprimer",
+"level": "C1",
+"definition": "to suppress / repress (подавлять, сдерживать)",
+"example": "La police a réprimé la manifestation avec force.",
+"see_also": [],
+"pronunciation": "[ʁe.pʁi.me]"
+},
+{
+"word": "Vulgariser",
+"level": "C1",
+"definition": "to popularize (science/knowledge) (популяризировать)",
+"example": "Son rôle est de vulgariser la recherche scientifique.",
+"see_also": [],
+"pronunciation": "[vyl.ɡa.ʁi.ze]"
+},
+{
+"word": "Obsolète",
+"level": "C1",
+"definition": "obsolete (устаревший)",
+"example": "Cette méthode de gestion est complètement obsolète.",
+"see_also": [],
+"pronunciation": "[ɔb.sɔ.lɛt]"
+},
+{
+"word": "Inhérent",
+"level": "C1",
+"definition": "inherent (присущий, неотъемлемый)",
+"example": "Le risque est inhérent à toute création d'entreprise.",
+"see_also": [],
+"pronunciation": "[i.ne.ʁɑ̃]"
+},
+{
+"word": "Éphémère",
+"level": "C1",
+"definition": "ephemeral / fleeting (эфемерный, мимолетный)",
+"example": "La célébrité est souvent un phénomène très éphémère.",
+"see_also": [],
+"pronunciation": "[e.fe.mɛʁ]"
+},
+{
+"word": "Tangible",
+"level": "C1",
+"definition": "tangible (осязаемый, реальный)",
+"example": "Nous n'avons aucune preuve tangible contre lui.",
+"see_also": [],
+"pronunciation": "[tɑ̃.ʒibl]"
+},
+{
+"word": "Omniprésent",
+"level": "C1",
+"definition": "omnipresent (вездесущий)",
+"example": "La publicité est omniprésente dans notre société.",
+"see_also": [],
+"pronunciation": "[ɔm.ni.pʁe.zɑ̃]"
+},
+{
+"word": "Chronophage",
+"level": "C1",
+"definition": "time-consuming (затратный по времени)",
+"example": "Répondre à tous ces courriels est très chronophage.",
+"see_also": [],
+"pronunciation": "[kʁɔ.nɔ.faʒ]"
+},
+{
+"word": "Éclectique",
+"level": "C1",
+"definition": "eclectic (эклектичный)",
+"example": "Il possède des goûts musicaux particulièrement éclectiques.",
+"see_also": [],
+"pronunciation": "[e.klɛk.tik]"
+},
+{
+"word": "Factice",
+"level": "C1",
+"definition": "artificial / fake (искусственный, фальшивый)",
+"example": "Il riait d'un rire nerveux et factice.",
+"see_also": [],
+"pronunciation": "[fak.tis]"
+},
+{
+"word": "Lucratif",
+"level": "C1",
+"definition": "lucrative (прибыльный)",
+"example": "Il s'est engagé dans un marché très lucratif.",
+"see_also": [],
+"pronunciation": "[ly.kʁa.tif]"
+},
+{
+"word": "Nébuleux",
+"level": "C1",
+"definition": "nebulous / vague (туманный, неясный)",
+"example": "Le concept qu'il a présenté restait très nébuleux.",
+"see_also": [],
+"pronunciation": "[ne.by.lø]"
+},
+{
+"word": "Désuet",
+"level": "C1",
+"definition": "outdated (устаревший, вышедший из употребления)",
+"example": "Il utilise des expressions d'un autre temps, très désuètes.",
+"see_also": [],
+"pronunciation": "[de.zɥɛ]"
+},
+{
+"word": "Antagoniste",
+"level": "C1",
+"definition": "antagonistic / opposing (враждебный, противоположный)",
+"example": "Ils ont défendu des positions totalement antagonistes.",
+"see_also": [],
+"pronunciation": "[ɑ̃.ta.ɡɔ.nist]"
+},
+{
+"word": "Draconien",
+"level": "C1",
+"definition": "draconian (драконовский, суровый)",
+"example": "Le gouvernement a imposé des mesures draconiennes.",
+"see_also": [],
+"pronunciation": "[dʁa.kɔ.njɛ̃]"
+},
+{
+"word": "Illicite",
+"level": "C1",
+"definition": "illicit (незаконный)",
+"example": "Le trafic de substances illicites a augmenté.",
+"see_also": [],
+"pronunciation": "[i.li.sit]"
+},
+{
+"word": "Intrinsèque",
+"level": "C1",
+"definition": "intrinsic (внутренний, присущий)",
+"example": "La valeur intrinsèque du bijou n'est pas si élevée.",
+"see_also": [],
+"pronunciation": "[ɛ̃.tʁɛ̃.sɛk]"
+},
+{
+"word": "Récurrence",
+"level": "C1",
+"definition": "recurrence (повторяемость, рекурсия)",
+"example": "La récurrence de ces erreurs nous inquiète beaucoup.",
+"see_also": [],
+"pronunciation": "[ʁe.ky.ʁɑ̃s]"
+},
+{
+"word": "Aberration",
+"level": "C1",
+"definition": "aberration (заблуждение, аберрация)",
+"example": "Ce jugement est une aberration totale !",
+"see_also": [],
+"pronunciation": "[a.be.ʁa.sjɔ̃]"
+},
+{
+"word": "Dichotomie",
+"level": "C1",
+"definition": "dichotomy (дихотомия)",
+"example": "On observe une véritable dichotomie entre théorie et pratique.",
+"see_also": [],
+"pronunciation": "[di.kɔ.tɔ.mi]"
+},
+{
+"word": "Paroxysme",
+"level": "C1",
+"definition": "paroxysm / climax (пароксизм, кульминация)",
+"example": "La tension est arrivée à son paroxysme lors du débat.",
+"see_also": [],
+"pronunciation": "[pa.ʁɔk.sizm]"
+},
+{
+"word": "Clivage",
+"level": "C1",
+"definition": "divide / split (расслоение, раскол)",
+"example": "Il y a un clivage générationnel important à prendre en compte.",
+"see_also": [],
+"pronunciation": "[kli.vaʒ]"
+},
+{
+"word": "Émergence",
+"level": "C1",
+"definition": "emergence (появление, возникновение)",
+"example": "Nous assistons à l'émergence de nouvelles technologies.",
+"see_also": [],
+"pronunciation": "[e.mɛʁ.ʒɑ̃s]"
+},
+{
+"word": "Hégémonie",
+"level": "C1",
+"definition": "hegemony (гегемония)",
+"example": "La superpuissance impose son hégémonie culturelle.",
+"see_also": [],
+"pronunciation": "[e.ʒe.mɔ.ni]"
+},
+{
+"word": "Plaidoyer",
+"level": "C1",
+"definition": "plea / advocacy (защитительная речь, выступление в защиту)",
+"example": "Son discours était un véritable plaidoyer pour la paix.",
+"see_also": [],
+"pronunciation": "[plɛ.dwa.je]"
+},
+{
+"word": "Apanage",
+"level": "C1",
+"definition": "prerogative / privilege (удел, достояние)",
+"example": "L'intelligence n'est pas l'apanage de l'être humain.",
+"see_also": [],
+"pronunciation": "[a.pa.naʒ]"
+},
+{
+"word": "Engouement",
+"level": "C1",
+"definition": "craze / enthusiam (увлечение, страсть)",
+"example": "On note un engouement récent pour les énergies vertes.",
+"see_also": [],
+"pronunciation": "[ɑ̃.ɡu.mɑ̃]"
+},
+{
+"word": "Iniquité",
+"level": "C1",
+"definition": "inequity / unfairness (несправедливость)",
+"example": "L'iniquité du système fiscal doit être réformée.",
+"see_also": [],
+"pronunciation": "[i.ni.ki.te]"
+},
+{
+"word": "Répercussion",
+"level": "C1",
+"definition": "repercussion (последствие, отзвук)",
+"example": "Cette décision aura des répercussions sur l'emploi.",
+"see_also": [],
+"pronunciation": "[ʁe.pɛʁ.ky.sjɔ̃]"
+},
+{
+"word": "Conjecture",
+"level": "C1",
+"definition": "conjecture / guess (предположение, догадка)",
+"example": "Tout ce que vous dites n'est que pure conjecture.",
+"see_also": [],
+"pronunciation": "[kɔ̃.ʒɛk.tyʁ]"
+},
+{
+"word": "Prorogation",
+"level": "C1",
+"definition": "extension (продление)",
+"example": "Le syndicat a demandé la prorogation du délai d'inscription.",
+"see_also": [],
+"pronunciation": "[pʁɔ.ʁɔ.ɡa.sjɔ̃]"
+},
+{
+"word": "S'arroger",
+"level": "C2",
+"definition": "to arrogate / lay claim to (присваивать себе право)",
+"example": "Il s'est arrogé des droits qu'il n'avait pas.",
+"see_also": [],
+"pronunciation": "[sa.ʁɔ.ʒe]"
+},
+{
+"word": "Vilipender",
+"level": "C2",
+"definition": "to vilify / abuse (чернить, поносить)",
+"example": "Cet auteur a été vilipendé par la critique littéraire.",
+"see_also": [],
+"pronunciation": "[vi.li.pɑ̃.de]"
+},
+{
+"word": "Éluder",
+"level": "C2",
+"definition": "to evade (уклоняться, обходить)",
+"example": "Le politicien a tenté d'éluder la question du journaliste.",
+"see_also": [],
+"pronunciation": "[e.ly.de]"
+},
+{
+"word": "Entériner",
+"level": "C2",
+"definition": "to ratify / validate (утверждать, окончательно одобрять)",
+"example": "L'accord a été entériné par le conseil d'administration.",
+"see_also": [],
+"pronunciation": "[ɑ̃.te.ʁi.ne]"
+},
+{
+"word": "Oblitérer",
+"level": "C2",
+"definition": "to obliterate / cancel (стирать, уничтожать)",
+"example": "Le temps n'a pas pu oblitérer ses souvenirs les plus douloureux.",
+"see_also": [],
+"pronunciation": "[ɔ.bli.te.ʁe]"
+},
+{
+"word": "Conspuer",
+"level": "C2",
+"definition": "to boo / jeer (освистывать)",
+"example": "L'arbitre a été conspué par les supporters en colère.",
+"see_also": [],
+"pronunciation": "[kɔ̃.spɥe]"
+},
+{
+"word": "Fomenter",
+"level": "C2",
+"definition": "to foment / stir up (замышлять, раздувать)",
+"example": "On l'accuse de fomenter une rébellion au sein du parti.",
+"see_also": [],
+"pronunciation": "[fɔ.mɑ̃.te]"
+},
+{
+"word": "Aliéner",
+"level": "C2",
+"definition": "to alienate (отчуждать, настраивать против)",
+"example": "Cette loi risque d'aliéner une grande partie de la population.",
+"see_also": [],
+"pronunciation": "[a.lje.ne]"
+},
+{
+"word": "Infirmer",
+"level": "C2",
+"definition": "to invalidate / refute (опровергать, аннулировать)",
+"example": "Les nouvelles études viennent infirmer la théorie précédente.",
+"see_also": [],
+"pronunciation": "[ɛ̃.fiʁ.me]"
+},
+{
+"word": "Subjuguer",
+"level": "C2",
+"definition": "to captivate / enthral (покорять, очаровывать)",
+"example": "Le public a été véritablement subjugué par sa performance.",
+"see_also": [],
+"pronunciation": "[syb.ʒy.ɡe]"
+},
+{
+"word": "Récuser",
+"level": "C2",
+"definition": "to reject / challenge (давать отвод, отвергать)",
+"example": "L'accusé a voulu récuser le magistrat qui menait le procès.",
+"see_also": [],
+"pronunciation": "[ʁe.ky.ze]"
+},
+{
+"word": "Bafouer",
+"level": "C2",
+"definition": "to flout / ridicule (попирать, глумиться)",
+"example": "Comment osez-vous bafouer ainsi les lois de la république ?",
+"see_also": [],
+"pronunciation": "[ba.fwe]"
+},
+{
+"word": "Extorquer",
+"level": "C2",
+"definition": "to extort (вымогать)",
+"example": "Ils ont réussi à lui extorquer des aveux signés.",
+"see_also": [],
+"pronunciation": "[ɛks.tɔʁ.ke]"
+},
+{
+"word": "Exhumer",
+"level": "C2",
+"definition": "to exhume (эксгумировать, извлекать из забвения)",
+"example": "La police a dû exhumer le corps pour l'autopsie.",
+"see_also": [],
+"pronunciation": "[ɛɡ.zy.me]"
+},
+{
+"word": "Corroborer",
+"level": "C2",
+"definition": "to corroborate (подтверждать)",
+"example": "Ceci vient corroborer l'analyse qui avait été faite.",
+"see_also": [],
+"pronunciation": "[kɔ.ʁɔ.bɔ.ʁe]"
+},
+{
+"word": "Stigmatiser",
+"level": "C2",
+"definition": "to stigmatize (клеймить, стигматизировать)",
+"example": "Il est trop facile de stigmatiser les classes populaires.",
+"see_also": [],
+"pronunciation": "[stiɡ.ma.ti.ze]"
+},
+{
+"word": "Dilapider",
+"level": "C2",
+"definition": "to squander / waste (растрачивать, транжирить)",
+"example": "Il a dilapidé la fortune familiale aux jeux d'argent.",
+"see_also": [],
+"pronunciation": "[di.la.pi.de]"
+},
+{
+"word": "Tergiverser",
+"level": "C2",
+"definition": "to procrastinate / prevaricate (увиливать, медлить с решением)",
+"example": "Arrêtez de tergiverser et prenez enfin une décision !",
+"see_also": [],
+"pronunciation": "[tɛʁ.ʒi.vɛʁ.se]"
+},
+{
+"word": "Farder",
+"level": "C2",
+"definition": "to disguise / make up (приукрашивать, маскировать)",
+"example": "Il essaie de farder la vérité avec de jolies paroles.",
+"see_also": [],
+"pronunciation": "[faʁ.de]"
+},
+{
+"word": "Répudier",
+"level": "C2",
+"definition": "to repudiate / reject (отрекаться, отвергать)",
+"example": "Il a formellement répudié les actions de ses prédécesseurs.",
+"see_also": [],
+"pronunciation": "[ʁe.py.dje]"
+},
+{
+"word": "Abscons",
+"level": "C2",
+"definition": "abstruse / obscure (малопонятный, заумный)",
+"example": "Le philosophe s'est exprimé dans un jargon très abscons.",
+"see_also": [],
+"pronunciation": "[ap.skɔ̃]"
+},
+{
+"word": "Fallacieux",
+"level": "C2",
+"definition": "fallacious / misleading (ложный, обманчивый)",
+"example": "Son argumentation repose sur des prémisses fallacieuses.",
+"see_also": [],
+"pronunciation": "[fa.la.sjø]"
+},
+{
+"word": "Péremptoire",
+"level": "C2",
+"definition": "peremptory (безапелляционный, властный)",
+"example": "Il ha répondu d'un ton si péremptoire que personne n'a osé parler.",
+"see_also": [],
+"pronunciation": "[pe.ʁɑ̃p.twaʁ]"
+},
+{
+"word": "Pusillanime",
+"level": "C2",
+"definition": "pusillanimous / faint-hearted (малодушный, трусливый)",
+"example": "Leur gestion de crise s'est avérée particulièrement pusillanime.",
+"see_also": [],
+"pronunciation": "[py.zi.la.nim]"
+},
+{
+"word": "Prolixe",
+"level": "C2",
+"definition": "prolix / wordy (многословный)",
+"example": "L'orateur s'est montré tellement prolixe que l'auditoire s'est endormi.",
+"see_also": [],
+"pronunciation": "[pʁɔ.liks]"
+},
+{
+"word": "Insidieux",
+"level": "C2",
+"definition": "insidious (коварный, скрытый)",
+"example": "Le poison attaque le système nerveux de manière insidieuse.",
+"see_also": [],
+"pronunciation": "[ɛ̃.si.djø]"
+},
+{
+"word": "Obséquieux",
+"level": "C2",
+"definition": "obsequious / sycophantic (подобострастный)",
+"example": "Le maître d'hôtel nous a accueillis d'un air obséquieux.",
+"see_also": [],
+"pronunciation": "[ɔp.se.kjø]"
+}
 ]
