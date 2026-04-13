@@ -8,6 +8,8 @@ load_dotenv()
 
 url = os.environ.get("SUPABASE_URL")
 key = os.environ.get("SUPABASE_SERVICE_ROLE_KEY") or os.environ.get("SUPABASE_KEY")
+if key:
+    key = key.strip()
 
 supabase: Optional[Client] = None
 if url and key:
