@@ -1,7 +1,7 @@
 import os
 from typing import Optional, List, Tuple
 from supabase import create_client, Client
-from encryption import encrypt_id, decrypt_id, hash_id
+from encryption import encrypt_id, decrypt_id, hash_id, ensure_encryption_ready
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -21,7 +21,7 @@ else:
     )
 
 def init_db():
-    pass
+    ensure_encryption_ready()
 
 def add_or_update_user(chat_id: int, level: str):
     if not supabase: return

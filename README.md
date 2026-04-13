@@ -22,6 +22,7 @@ SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
 ENCRYPTION_KEY=your_fernet_encryption_key
 ```
 Legacy fallback: `SUPABASE_KEY` is still supported by the code for backward compatibility, but `SUPABASE_SERVICE_ROLE_KEY` is recommended.
+For backend bot access, use the service role key. In newer Supabase dashboards, this key may appear under the Legacy API keys tab.
 Note: You can generate an encryption key by running:
 `python -c "from cryptography.fernet import Fernet; print(Fernet.generate_key().decode())"`
 
