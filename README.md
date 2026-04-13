@@ -18,9 +18,10 @@ You need to set up the following environment variables:
 ```
 TOKEN=your_telegram_bot_token
 SUPABASE_URL=your_supabase_project_url
-SUPABASE_KEY=your_supabase_anon_key
+SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
 ENCRYPTION_KEY=your_fernet_encryption_key
 ```
+Legacy fallback: `SUPABASE_KEY` is still supported by the code for backward compatibility, but `SUPABASE_SERVICE_ROLE_KEY` is recommended.
 Note: You can generate an encryption key by running:
 `python -c "from cryptography.fernet import Fernet; print(Fernet.generate_key().decode())"`
 

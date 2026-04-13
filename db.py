@@ -7,13 +7,16 @@ from dotenv import load_dotenv
 load_dotenv()
 
 url = os.environ.get("SUPABASE_URL")
-key = os.environ.get("SUPABASE_KEY")
+key = os.environ.get("SUPABASE_SERVICE_ROLE_KEY") or os.environ.get("SUPABASE_KEY")
 
 supabase: Optional[Client] = None
 if url and key:
     supabase = create_client(url, key)
 else:
-    print("Warning: SUPABASE_URL or SUPABASE_KEY not set. DB functions will silently fail.")
+    print(
+        "Warning: SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY "
+        "(fallback SUPABASE_KEY) not set. DB functions will silently fail."
+    )
 
 def init_db():
     pass
