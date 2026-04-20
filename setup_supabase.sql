@@ -5,7 +5,8 @@
 CREATE TABLE IF NOT EXISTS users (
     id_hash TEXT PRIMARY KEY,
     encrypted_id TEXT NOT NULL,
-    level TEXT NOT NULL DEFAULT 'C1'
+    level TEXT NOT NULL DEFAULT 'C1',
+    last_golden_list_at DATE DEFAULT '2026-04-08'
 );
 
 ALTER TABLE users ENABLE ROW LEVEL SECURITY;

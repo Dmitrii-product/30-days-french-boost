@@ -43,21 +43,33 @@ def get_user_level(chat_id: int) -> Optional[str]:
         print(f"Error getting user level: {e}")
     return None
 
-def get_all_users() -> List[Tuple[int, str]]:
+def get_all_users() -> List[Tuple[int, str, Optional[str]]]:
+    """Returns a list of (chat_id, level, last_golden_list_at)"""
     if not supabase: return []
     try:
-        response = supabase.table('users').select('encrypted_id, level').execute()
+        response = supabase.table('users').select('encrypted_id, level, last_golden_list_at').execute()
         users = []
         for row in response.data:
             enc_id = row['encrypted_id']
             lvl = row['level']
+            last_sent = row.get('last_golden_list_at')
             real_id = decrypt_id(enc_id)
             if real_id:
-                users.append((real_id, lvl))
+                users.append((real_id, lvl, last_sent))
         return users
     except Exception as e:
         print(f"Error fetching all users: {e}")
         return []
+
+def update_user_golden_list_date(chat_id: int):
+    if not supabase: return
+    id_hash = hash_id(chat_id)
+    import datetime
+    today = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    try:
+        supabase.table('users').update({"last_golden_list_at": today}).eq('id_hash', id_hash).execute()
+    except Exception as e:
+        print(f"Error updating golden list date for {chat_id}: {e}")
 
 def add_word_to_vocabulary(chat_id: int, word: str):
     if not supabase: return

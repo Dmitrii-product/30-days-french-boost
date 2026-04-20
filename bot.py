@@ -231,14 +231,24 @@ async def goldenlist_command(update: Update, context: ContextTypes.DEFAULT_TYPE)
     await send_golden_list(context, user_id)
 
 async def send_all_golden_lists(context: ContextTypes.DEFAULT_TYPE):
-    epoch = datetime.date(2026, 4, 8)
-    today = datetime.datetime.now(datetime.timezone.utc).date()
-    if (today - epoch).days % 14 != 0:
-        return
-
     users = db.get_all_users()
-    for chat_id, _ in users:
-        await send_golden_list(context, chat_id)
+    today = datetime.datetime.now(datetime.timezone.utc).date()
+    
+    for chat_id, level, last_sent_str in users:
+        send_needed = False
+        if not last_sent_str:
+            send_needed = True
+        else:
+            try:
+                last_sent = datetime.date.fromisoformat(last_sent_str)
+                if (today - last_sent).days >= 14:
+                    send_needed = True
+            except Exception:
+                send_needed = True
+        
+        if send_needed:
+            await send_golden_list(context, chat_id)
+            db.update_user_golden_list_date(chat_id)
 
 async def test_send(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await send_daily_words(context)
