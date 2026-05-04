@@ -147,7 +147,7 @@ async def send_daily_words(context: ContextTypes.DEFAULT_TYPE):
         return
     
     users_by_level = {lvl: [] for lvl in LEVELS}
-    for chat_id, level in users:
+    for chat_id, level, _ in users:
         if level in users_by_level:
             users_by_level[level].append(chat_id)
             
